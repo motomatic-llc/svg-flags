@@ -74,7 +74,7 @@ svg-flags/
 - **other/** — Two subcategories:
   - **other/locales/** — Places with widely recognized flags that are not UN member states (e.g. Taiwan, Northern Cyprus, Kosovo)
   - **other/orgs/** — Organizations, symbols, and novelty flags (e.g. NATO, UN, Olympics, checkered flag)
-- **historical/** — Flags of former states and defunct entities (e.g. Confederate States, Soviet Union, Prussia)
+- **historical/** — Flags of former states and defunct entities (e.g. Confederate battle flag, Soviet Union, Prussia)
 - **states/** — Subnational divisions (e.g. US states, Canadian provinces), using [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) codes
 - **languages/** — Language flags (duplicated files, not symlinks)
 
@@ -137,7 +137,7 @@ svg-flags/
 
 | Code | Name | Circle | Rect | Simplified | Full-size | Colors | Source |
 |------|------|:------:|:----:|:----------:|:---------:|--------|--------|
-| `confederacy` | [Confederate States](https://en.wikipedia.org/wiki/Confederate_States_of_America) | <img src="circle/historical/confederacy.svg" width="32"> | <img src="rect/historical/confederacy.svg" width="32"> | [✓](full-size-simplified/historical/confederacy.svg) | [✓](full-size/historical/confederacy.svg) | <img src="swatches/bf0a30.svg" width="12">&nbsp;`#bf0a30`<br><img src="swatches/002868.svg" width="12">&nbsp;`#002868` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) |
+| `confederacy` | [Confederate battle flag](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) | <img src="circle/historical/confederacy.svg" width="32"> | <img src="rect/historical/confederacy.svg" width="32"> | [✓](full-size-simplified/historical/confederacy.svg) | [✓](full-size/historical/confederacy.svg) | <img src="swatches/bf0a30.svg" width="12">&nbsp;`#bf0a30`<br><img src="swatches/002868.svg" width="12">&nbsp;`#002868` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) |
 
 ## SVG Design Rules
 
