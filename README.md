@@ -297,7 +297,6 @@ svg-flags/
 | Code | Name | Circle |
 |------|------|:------:|
 | `en` | English | <img src="circle/languages/en.svg" width="32"> |
-| `en-ke` | English (Kenya) | <img src="circle/languages/en-ke.svg" width="32"> |
 | `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> |
 ### Other locales (non-UN entities)
 
