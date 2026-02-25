@@ -12,7 +12,7 @@ I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in m
 
 **Circle shape isn't always enough.** Circular flags work great for profile badges and map markers, but many UI contexts call for rectangular flags — table rows, settings screens, country pickers, informational displays. This project provides multiple shape variants from simplified icons to full-detail flags.
 
-**Colors are simplified.** circle-flags maps every flag to an 11-color palette for visual consistency. That's a reasonable design choice, but it means the US flag uses `#d80027` instead of Old Glory Red `#B31942`, and `#0052b4` instead of Old Glory Blue `#0A3161`. This project uses the actual official flag colors, sourced from Wikipedia/Wikimedia Commons SVGs, and documents every color below.
+**Colors are simplified.** circle-flags maps every flag to an 11-color palette for visual consistency. That's a reasonable design choice, but it means the US flag uses <img src="swatches/d80027.svg" width="12">&nbsp;`#d80027` instead of Old Glory Red <img src="swatches/B31942.svg" width="12">&nbsp;`#B31942`, and <img src="swatches/0052b4.svg" width="12">&nbsp;`#0052b4` instead of Old Glory Blue <img src="swatches/0A3161.svg" width="12">&nbsp;`#0A3161`. This project uses the actual official flag colors, sourced from Wikipedia/Wikimedia Commons SVGs, and documents every color below.
 
 **Symlinks cause problems.** The language flags in circle-flags are symlinks pointing to country flags. Symlinks break in Xcode asset catalogs, some npm packaging, and cross-platform workflows. This project duplicates files instead — every flag is a standalone SVG.
 
