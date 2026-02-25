@@ -1,12 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="750" height="600" viewBox="0 0 750 600">
-  <defs>
-    <clipPath id="s">
-      <rect width="750" height="600"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#s)">
-    <g transform="scale(1.464844, 1.171875)">
-      <path fill="#FFFFFF" d="M256 512a256 256 0 0 0 256-255.5v-.5l-256-32L0 256a256 256 0 0 0 256 256"/><path fill="#CE1126" d="M512 255.5v.5H0a256 256 0 0 1 512-.5"/>
-    </g>
+  <g transform="scale(0.750000, 0.750000)">
+    <path fill="#FFF" d="M0,0h1000V800H0z"/>
+<path fill="#CE1126" d="M0,0h1000V400H0z"/>
   </g>
 </svg>

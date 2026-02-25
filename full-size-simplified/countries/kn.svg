@@ -1,5 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
-  <g transform="scale(1.757812, 1.171875)">
-    <g clip-path="url(#a)"><path fill="#C8102E" d="M437 75 224 224 75 437a256 256 0 0 0 437-178.2v-5.7A255 255 0 0 0 437 75"/><path fill="#009739" d="M437 75 75 437A256 256 0 0 1 437 75"/><path fill="#FFCD00" d="M372.2 27.8a257 257 0 0 1 112 112L139.8 484.2a257 257 0 0 1-112-112z"/><path fill="#000000" d="M402.2 45.8a256 256 0 0 1 64 64L109.8 466.2a256 256 0 0 1-64-64z"/></g><path fill="#FFFFFF" d="m151.6 308.2 23.9 12.2 19-19-4.2 26.5 23.9 12.2-26.5 4.2-4.2 26.4-12.2-23.9-26.5 4.2 19-19zm156.7-156.7 23.8 12.2 19-19-4.2 26.5 24 12.2-26.6 4.2-4.2 26.5-12.1-23.9-26.5 4.2 19-19z"/><defs><clipPath id="a"><path fill="#FFFFFF" d="M0 0h900v600H0z"/></clipPath></defs>
+  <g transform="scale(12.000000, 12.000000)">
+    <defs>
+		<clipPath id="f">
+			<path d="m0 0h75v50H0z"/>
+		</clipPath>
+	</defs>
+	<path fill="#009739" d="m0 50V0h75z"/>
+	<path fill="#c8102e" d="m75 0v50H0z"/>
+	<g clip-path="url(#f)">
+		<path stroke="#ffcd00" stroke-width="21" d="m0 50L75 0"/>
+		<path stroke="#000" stroke-width="15" d="m0 50L75 0"/>
+	</g>
+	<path fill="#fff" d="m19.565 29.347 10.448 8.254L16.709 37.065l11.078-7.386-4.621 12.487zm28.846-19.231 10.448 8.254L45.555 17.834l11.078-7.386-4.621 12.487z"/>
   </g>
 </svg>

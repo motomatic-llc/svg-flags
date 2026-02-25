@@ -1,11 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-
   <defs>
     <clipPath id="r">
       <rect width="512" height="512"/>
     </clipPath>
   </defs>
   <g clip-path="url(#r)">
-    <circle cx="256" cy="256" r="256" fill="#C10000"/><path fill="#FFFFFF" d="M0 245.6A256 256 0 0 1 256 0v256H0z"/><path fill="#C10000" d="M160 128V96h-32v32H96v32h32v32h32v-32h32v-32z"/>
+    <path fill="#C10000" d="M0 0h512v512H0z"/><path fill="#FFFFFF" d="M0 0h256v256H0z"/><path fill="#C10000" d="M144 112V80h-32v32H80v32h32v32h32v-32h32v-32z"/>
   </g>
 </svg>

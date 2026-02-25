@@ -1,12 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
-  <defs>
-    <clipPath id="s">
-      <rect width="900" height="600"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#s)">
-    <g transform="scale(1.757812, 1.171875)">
-      <path fill="#2D3359" d="M482 376.5a256 256 0 0 1-452 0L256 320z"/><path fill="#F7B718" d="M477.8 384A255 255 0 0 0 512 256l-256-64L0 256c0 46.6 12.5 90.3 34.2 128z"/><path fill="#008658" d="M471.6 117.9A255 255 0 0 1 512 256H0c0-50.9 14.8-98.3 40.4-138.1L256 64z"/><path fill="#D01C1F" d="M477.8 128H34.2a255.9 255.9 0 0 1 443.6 0"/>
-    </g>
-  </g>
+  <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g>
+  <path d="M0 0h900v600H0z" fill="#008658"/>
+  <path d="M0 0h900v450H0z" fill="#f7b718"/>
+  <path d="M0 0h900v300H0z" fill="#2d3359"/>
+  <path d="m0 0h900v150h-900z" fill="#d01c1f"/>
+ </g>
 </svg>

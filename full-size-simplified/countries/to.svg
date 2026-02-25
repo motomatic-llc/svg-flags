@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
-  <defs>
-    <clipPath id="s">
-      <rect width="1200" height="600"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#s)">
-    <g transform="scale(2.343750, 1.171875)">
-      <circle cx="256" cy="256" r="256" fill="#C10000"/><path fill="#FFFFFF" d="M0 245.6A256 256 0 0 1 256 0v256H0z"/><path fill="#C10000" d="M160 128V96h-32v32H96v32h32v32h32v-32h32v-32z"/>
-    </g>
+  <g transform="scale(12.500000, 12.500000)">
+    <g fill="#C10000">
+<rect width="96" height="48"/>
+<rect width="40" fill="#fff" height="24"/>
+<rect x="17" y="3" width="6" height="18"/>
+<rect x="11" y="9" width="18" height="6"/>
+</g>
   </g>
 </svg>
