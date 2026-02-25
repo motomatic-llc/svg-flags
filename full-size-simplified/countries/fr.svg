@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
-  <rect fill="#002654" width="300" height="600"/>
-  <rect fill="#FFF" x="300" width="300" height="600"/>
-  <rect fill="#CE1126" x="600" width="300" height="600"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+  <rect width="900" height="600" fill="#CE1126"/>
+  <rect width="600" height="600" fill="#FFFFFF"/>
+  <rect width="300" height="600" fill="#002654"/>
 </svg>

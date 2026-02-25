@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
-  <g transform="scale(0.083333, 0.083333)">
-    <g transform="scale(300)" stroke="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="-7200 -3600 14400 7200" fill="#046a38" stroke="#000" stroke-width="7">
+	<title>Flag of Dominica</title>
+	<g transform="scale(300)" stroke="none">
 		<path d="m-24-12h48v24h-48z"/>
 		<path fill="#ffcd00" d="m-24-3h48v3h-48zm21-9h3v24h-3z"/>
 		<path fill="#fff" d="m-24 0h48v3h-48zM0-12h3v24H0z"/>
@@ -104,5 +104,4 @@
 		<path d="m-206-786c5 23-12 55-50 66-38 16-67 52-84 111-58-134-21-191 41-205 53-17 85-15 93 28z"/>
 	</g>
 	<circle fill="#000" stroke="none" cx="-262" cy="-756" r="13"/>
-  </g>
 </svg>

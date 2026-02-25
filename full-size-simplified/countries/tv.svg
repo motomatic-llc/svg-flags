@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
-  <g transform="scale(10.000000, 10.000000)">
-    <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 120 60" fill="#fedd00">
+	<title>Flag of Tuvalu</title>
+	<defs>
 		<path id="a" d="m0-5.2573 3.0902 9.5106L-5-1.6246H5l-8.0902 5.8779z"/>
 		<path id="b" d="m0 5.2573-3.0902-9.5106L5 1.6246H-5l8.0902-5.8779z"/>
 		<clipPath id="f">
@@ -27,5 +27,4 @@
 	<path d="m0-5.2573 3.0902 9.5106L-5-1.6246H5l-8.0902 5.8779z"/>
 	<path d="m0-5.2573 3.0902 9.5106L-5-1.6246H5l-8.0902 5.8779z"/>
 	<path d="m0-5.2573 3.0902 9.5106L-5-1.6246H5l-8.0902 5.8779z"/>
-  </g>
 </svg>

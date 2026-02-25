@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
-  <g transform="scale(0.010851, 0.010851)">
-    <path fill="#fff" d="m0 0h82944v55296H0z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 82944 55296">
+	<title>Flag of Malta</title>
+	<path fill="#fff" d="m0 0h82944v55296H0z"/>
 	<path fill="#cf142b" d="m41472 0h41472v55296H41472z"/>
 	<g id="cross" transform="translate(10368,10368)">
 		<g id="outer" fill="#fff" stroke="#000" stroke-width="96">
@@ -67,5 +67,4 @@
 			</g>
 		</g>
 	</g>
-  </g>
 </svg>

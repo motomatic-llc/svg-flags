@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
-  <g transform="scale(10.000000, 10.000000)">
-    <path fill="#FFF" d="m-45-30h90v60h-90z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="-45 -30 90 60" fill="#07038D">
+	<title>Flag of India</title>
+	<path fill="#FFF" d="m-45-30h90v60h-90z"/>
 	<path fill="#FF6820" d="m-45-30h90v20h-90z"/>
 	<path fill="#046A38" d="m-45 10h90v20h-90z"/>
 	<circle r="9.25"/>
@@ -30,5 +30,4 @@
 					<path d="m0-8 .3 4.81409L0-.80235-.3-3.18591z"/>
 					<circle transform="rotate(7.5)" r="0.35" cy="-8"/>
 				</g></g>
-  </g>
 </svg>

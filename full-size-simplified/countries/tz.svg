@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
-  <g transform="scale(12.500000, 12.500000)">
-    <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 72 48">
+	<title>Flag of Tanzania</title>
+	<defs>
 		<clipPath id="c">
 			<path d="m0 0h72v48H0z"/>
 		</clipPath>
@@ -11,5 +11,4 @@
 		<path fill="none" stroke="#fcd116" stroke-width="19" d="m0 48L72 0"/>
 		<path fill="none" stroke="#000" stroke-width="13" d="m0 48L72 0"/>
 	</g>
-  </g>
 </svg>

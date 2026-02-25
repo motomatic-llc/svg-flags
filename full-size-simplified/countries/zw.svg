@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
-  <g transform="scale(0.047619, 0.047619)">
-    <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 25200 12600">
+	<title>Flag of Zimbabwe</title>
+	<defs>
 		<clipPath id="t">
 			<path d="m0 0h63v63H0z"/>
 		</clipPath>
@@ -21,5 +21,4 @@
 		<circle r="145" cx="3139" cy="6730"/>
 		<circle r="145" cx="3714" cy="6730"/>
 	</g>
-  </g>
 </svg>

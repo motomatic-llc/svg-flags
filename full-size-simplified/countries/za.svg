@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
-  <g transform="scale(10.000000, 10.000000)">
-    <defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 90 60">
+<title>Flag of South Africa</title>
+<defs>
  <clipPath id="t">
   <path d="m0 0 45 30L0 60z"/>
  </clipPath>
@@ -15,5 +15,4 @@
  <path fill="#000" stroke="#ffb81c" stroke-width="20" clip-path="url(#t)" d="m0 0 45 30L0 60"/>
  <path stroke="#007749" stroke-width="12" d="m0 0 45 30h45M0 60l45-30"/>
 </g>
-  </g>
 </svg>

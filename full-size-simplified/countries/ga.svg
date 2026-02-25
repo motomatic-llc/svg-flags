@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
-  <g transform="scale(0.800000, 0.800000)">
-    <path fill="#3a75c4" d="M0 0h1000v750H0z"/><path fill="#fcd116" d="M0 0h1000v500H0z"/><path fill="#009e60" d="M0 0h1000v250H0z"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750"><path fill="#3a75c4" d="M0 0h1000v750H0z"/><path fill="#fcd116" d="M0 0h1000v500H0z"/><path fill="#009e60" d="M0 0h1000v250H0z"/></svg>
