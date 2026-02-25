@@ -81,42 +81,59 @@ svg-flags/
 
 ## Progress
 
-| Code | Name | Category | Circle | Rect | Simplified | Full-size |
-|------|------|----------|:------:|:----:|:----------:|:---------:|
-| `us` | United States | country | ✓ | ✓ | ✓ | ✓ |
-| `gb` | United Kingdom | country | ✓ | ✓ | ✓ | ✓ |
-| `fr` | France | country | ✓ | ✓ | ✓ | ✓ |
-| `de` | Germany | country | ✓ | ✓ | ✓ | ✓ |
-| `jp` | Japan | country | ✓ | ✓ | ✓ | ✓ |
-| `ca` | Canada | country | | | | |
-| `au` | Australia | country | | | | |
-| `br` | Brazil | country | | | | |
-| `cn` | China | country | | | | |
-| `in` | India | country | | | | |
-| `it` | Italy | country | | | | |
-| `mx` | Mexico | country | | | | |
-| `kr` | South Korea | country | | | | |
-| `es` | Spain | country | | | | |
-| `se` | Sweden | country | | | | |
-| `no` | Norway | country | | | | |
-| `nl` | Netherlands | country | | | | |
-| `pt` | Portugal | country | | | | |
-| `ru` | Russia | country | | | | |
-| `ie` | Ireland | country | | | | |
-| `ch` | Switzerland | country | | | | |
-| `pl` | Poland | country | | | | |
-| `ar` | Argentina | country | | | | |
-| `za` | South Africa | country | | | | |
-| `nz` | New Zealand | country | | | | |
-| `tw` | Taiwan | other/locales | | | | |
-| `xk` | Kosovo | other/locales | | | | |
-| `northern-cyprus` | Northern Cyprus | other/locales | | | | |
-| `confederacy` | Confederate States | historical | | | | |
-| `nato` | NATO | other/orgs | | | | |
-| `un` | United Nations | other/orgs | | | | |
-| `olympics` | Olympics | other/orgs | | | | |
-| `checkered` | Checkered flag | other/orgs | | | | |
-| `pirate` | Pirate flag | other/orgs | | | | |
+### Countries (UN member states)
+
+| Code | Name | Circle | Rect | Simplified | Full-size |
+|------|------|:------:|:----:|:----------:|:---------:|
+| `us` | United States | ✓ | ✓ | ✓ | ✓ |
+| `gb` | United Kingdom | ✓ | ✓ | ✓ | ✓ |
+| `fr` | France | ✓ | ✓ | ✓ | ✓ |
+| `de` | Germany | ✓ | ✓ | ✓ | ✓ |
+| `jp` | Japan | ✓ | ✓ | ✓ | ✓ |
+| `ca` | Canada | | | | |
+| `au` | Australia | | | | |
+| `br` | Brazil | | | | |
+| `cn` | China | | | | |
+| `in` | India | | | | |
+| `it` | Italy | | | | |
+| `mx` | Mexico | | | | |
+| `kr` | South Korea | | | | |
+| `es` | Spain | | | | |
+| `se` | Sweden | | | | |
+| `no` | Norway | | | | |
+| `nl` | Netherlands | | | | |
+| `pt` | Portugal | | | | |
+| `ru` | Russia | | | | |
+| `ie` | Ireland | | | | |
+| `ch` | Switzerland | | | | |
+| `pl` | Poland | | | | |
+| `ar` | Argentina | | | | |
+| `za` | South Africa | | | | |
+| `nz` | New Zealand | | | | |
+
+### Other locales (non-UN entities)
+
+| Code | Name | Circle | Rect | Simplified | Full-size |
+|------|------|:------:|:----:|:----------:|:---------:|
+| `tw` | Taiwan | | | | |
+| `xk` | Kosovo | | | | |
+| `northern-cyprus` | Northern Cyprus | | | | |
+
+### Organizations & symbols
+
+| Code | Name | Circle | Rect | Simplified | Full-size |
+|------|------|:------:|:----:|:----------:|:---------:|
+| `nato` | NATO | | | | |
+| `un` | United Nations | | | | |
+| `olympics` | Olympics | | | | |
+| `checkered` | Checkered flag | | | | |
+| `pirate` | Pirate flag | | | | |
+
+### Historical
+
+| Code | Name | Circle | Rect | Simplified | Full-size |
+|------|------|:------:|:----:|:----------:|:---------:|
+| `confederacy` | Confederate States | | | | |
 
 ## SVG Design Rules
 
