@@ -38,7 +38,7 @@ Circle and rect variants of mostly-white flags (like Japan) include a subtle gre
 The border is the last element in the SVG, marked with a `<!-- border -->` comment:
 
 ```xml
-<!-- border --><circle cx="256" cy="256" r="250" fill="none" stroke="#eaecf0" stroke-width="12"/>
+<!-- border --><circle cx="256" cy="256" r="256" fill="none" stroke="#eaecf0" stroke-width="12"/>
 ```
 
 To remove it, delete the line or strip all borders with:
@@ -85,11 +85,11 @@ svg-flags/
 
 | | Code | Name | Circle | Rect | Simplified | Full-size |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|
-| <img src="circle/countries/fr.svg" width="24"> | `fr` | [France](https://en.wikipedia.org/wiki/France) | ✓ | ✓ | ✓ | ✓ |
-| <img src="circle/countries/de.svg" width="24"> | `de` | [Germany](https://en.wikipedia.org/wiki/Germany) | ✓ | ✓ | ✓ | ✓ |
-| <img src="circle/countries/jp.svg" width="24"> | `jp` | [Japan](https://en.wikipedia.org/wiki/Japan) | ✓ | ✓ | ✓ | ✓ |
-| <img src="circle/countries/gb.svg" width="24"> | `gb` | [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) | ✓ | ✓ | ✓ | ✓ |
-| <img src="circle/countries/us.svg" width="24"> | `us` | [United States](https://en.wikipedia.org/wiki/United_States) | ✓ | ✓ | ✓ | ✓ |
+| <img src="circle/countries/fr.svg" width="24"> | `fr` | [France](https://en.wikipedia.org/wiki/France) | [✓](circle/countries/fr.svg) | [✓](rect/countries/fr.svg) | [✓](full-size-simplified/countries/fr.svg) | [✓](full-size/countries/fr.svg) |
+| <img src="circle/countries/de.svg" width="24"> | `de` | [Germany](https://en.wikipedia.org/wiki/Germany) | [✓](circle/countries/de.svg) | [✓](rect/countries/de.svg) | [✓](full-size-simplified/countries/de.svg) | [✓](full-size/countries/de.svg) |
+| <img src="circle/countries/jp.svg" width="24"> | `jp` | [Japan](https://en.wikipedia.org/wiki/Japan) | [✓](circle/countries/jp.svg) | [✓](rect/countries/jp.svg) | [✓](full-size-simplified/countries/jp.svg) | [✓](full-size/countries/jp.svg) |
+| <img src="circle/countries/gb.svg" width="24"> | `gb` | [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) | [✓](circle/countries/gb.svg) | [✓](rect/countries/gb.svg) | [✓](full-size-simplified/countries/gb.svg) | [✓](full-size/countries/gb.svg) |
+| <img src="circle/countries/us.svg" width="24"> | `us` | [United States](https://en.wikipedia.org/wiki/United_States) | [✓](circle/countries/us.svg) | [✓](rect/countries/us.svg) | [✓](full-size-simplified/countries/us.svg) | [✓](full-size/countries/us.svg) |
 | | `ar` | [Argentina](https://en.wikipedia.org/wiki/Argentina) | | | | |
 | | `au` | [Australia](https://en.wikipedia.org/wiki/Australia) | | | | |
 | | `br` | [Brazil](https://en.wikipedia.org/wiki/Brazil) | | | | |
@@ -129,11 +129,17 @@ svg-flags/
 | | `pirate` | [Pirate flag](https://en.wikipedia.org/wiki/Jolly_Roger) | | | | |
 | | `un` | [United Nations](https://en.wikipedia.org/wiki/United_Nations) | | | | |
 
+### US states
+
+| | Code | Name | Circle | Rect | Simplified | Full-size |
+|:-:|------|------|:------:|:----:|:----------:|:---------:|
+| <img src="circle/states/us/ca.svg" width="24"> | `us/ca` | [California](https://en.wikipedia.org/wiki/California) | [✓](circle/states/us/ca.svg) | [✓](rect/states/us/ca.svg) | [✓](full-size-simplified/states/us/ca.svg) | [✓](full-size/states/us/ca.svg) |
+
 ### Historical
 
 | | Code | Name | Circle | Rect | Simplified | Full-size |
 |:-:|------|------|:------:|:----:|:----------:|:---------:|
-| <img src="circle/historical/confederacy.svg" width="24"> | `confederacy` | [Confederate States](https://en.wikipedia.org/wiki/Confederate_States_of_America) | ✓ | ✓ | ✓ | ✓ |
+| <img src="circle/historical/confederacy.svg" width="24"> | `confederacy` | [Confederate States](https://en.wikipedia.org/wiki/Confederate_States_of_America) | [✓](circle/historical/confederacy.svg) | [✓](rect/historical/confederacy.svg) | [✓](full-size-simplified/historical/confederacy.svg) | [✓](full-size/historical/confederacy.svg) |
 
 ## SVG Design Rules
 
@@ -158,6 +164,7 @@ Every color is documented in `colors.csv` with a source URL. We prefer Wikipedia
 - **France:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_France.svg) — <img src="swatches/002654.svg" width="12"> `#002654` (blue), <img src="swatches/CE1126.svg" width="12"> `#CE1126` (red)
 - **Germany:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) — <img src="swatches/000000.svg" width="12"> `#000000` (black), <img src="swatches/DD0000.svg" width="12"> `#DD0000` (red), <img src="swatches/FFCE00.svg" width="12"> `#FFCE00` (gold)
 - **Japan:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) — <img src="swatches/BC002D.svg" width="12"> `#BC002D` (red)
+- **California:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg) — <img src="swatches/BA0C2F.svg" width="12"> `#BA0C2F` (red), <img src="swatches/5C462B.svg" width="12"> `#5C462B` (brown), <img src="swatches/00843D.svg" width="12"> `#00843D` (green), <img src="swatches/B58150.svg" width="12"> `#B58150` (tan)
 - **Confederacy:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Battle_flag_of_the_Confederate_States_of_America_(3-5).svg) — <img src="swatches/bf0a30.svg" width="12"> `#bf0a30` (red), <img src="swatches/002868.svg" width="12"> `#002868` (blue)
 
 ## Usage
