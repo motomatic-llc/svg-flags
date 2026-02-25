@@ -66,7 +66,7 @@ svg-flags/
 ├── full-size/
 │   └── (same subcategories)
 ├── colors.csv         # Color reference with official sources
-└── gallery.html       # Visual gallery (open in browser)
+└── index.html       # Visual gallery (open in browser)
 ```
 
 ## Categories
