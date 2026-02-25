@@ -90,6 +90,7 @@ svg-flags/
 | Code | Name | Circle | Rect | Simplified | Full-size | Colors | Source |
 |------|------|:------:|:----:|:----------:|:---------:|--------|--------|
 | `fr` | [France](https://en.wikipedia.org/wiki/France) | <img src="circle/countries/fr.svg" width="32"> | <img src="rect/countries/fr.svg" width="32"> | <img src="full-size-simplified/countries/fr.svg" height="20"> | [✓](full-size/countries/fr.svg) | <img src="swatches/002654.svg" width="12">&nbsp;`#002654`<br><img src="swatches/CE1126.svg" width="12">&nbsp;`#CE1126` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_France.svg) |
+| `gr` | [Greece](https://en.wikipedia.org/wiki/Greece) | <img src="circle/countries/gr.svg" width="32"> | <img src="rect/countries/gr.svg" width="32"> | <img src="full-size-simplified/countries/gr.svg" height="20"> | [✓](full-size/countries/gr.svg) | <img src="swatches/0D5EAF.svg" width="12">&nbsp;`#0D5EAF` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Greece.svg) |
 | `de` | [Germany](https://en.wikipedia.org/wiki/Germany) | <img src="circle/countries/de.svg" width="32"> | <img src="rect/countries/de.svg" width="32"> | <img src="full-size-simplified/countries/de.svg" height="20"> | [✓](full-size/countries/de.svg) | <img src="swatches/000000.svg" width="12">&nbsp;`#000000`<br><img src="swatches/DD0000.svg" width="12">&nbsp;`#DD0000`<br><img src="swatches/FFCE00.svg" width="12">&nbsp;`#FFCE00` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) |
 | `jp` | [Japan](https://en.wikipedia.org/wiki/Japan) | <img src="circle/countries/jp.svg" width="32"> | <img src="rect/countries/jp.svg" width="32"> | <img src="full-size-simplified/countries/jp.svg" height="20"> | [✓](full-size/countries/jp.svg) | <img src="swatches/BC002D.svg" width="12">&nbsp;`#BC002D` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) |
 | `gb` | [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom) | <img src="circle/countries/gb.svg" width="32"> | <img src="rect/countries/gb.svg" width="32"> | <img src="full-size-simplified/countries/gb.svg" height="20"> | [✓](full-size/countries/gb.svg) | <img src="swatches/C8102E.svg" width="12">&nbsp;`#C8102E`<br><img src="swatches/012169.svg" width="12">&nbsp;`#012169` | [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg) |
@@ -158,7 +159,6 @@ svg-flags/
 | `gm` | [Gambia](https://en.wikipedia.org/wiki/The_Gambia) | | | | | | |
 | `ge` | [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) | | | | | | |
 | `gh` | [Ghana](https://en.wikipedia.org/wiki/Ghana) | | | | | | |
-| `gr` | [Greece](https://en.wikipedia.org/wiki/Greece) | | | | | | |
 | `gd` | [Grenada](https://en.wikipedia.org/wiki/Grenada) | | | | | | |
 | `gt` | [Guatemala](https://en.wikipedia.org/wiki/Guatemala) | | | | | | |
 | `gn` | [Guinea](https://en.wikipedia.org/wiki/Guinea) | | | | | | |
