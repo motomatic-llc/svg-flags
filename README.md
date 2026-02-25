@@ -12,7 +12,7 @@ I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in m
 
 **Circle shape isn't always enough.** Circular flags work great for profile badges and map markers, but many UI contexts call for rectangular flags — table rows, settings screens, country pickers, informational displays. This project provides multiple shape variants from simplified icons to full-detail flags.
 
-**Colors are simplified.** circle-flags maps every flag to an 11-color palette for visual consistency. That's a reasonable design choice, but it means the US flag uses `#d80027` instead of Old Glory Red `#B31942`, and `#0052b4` instead of Old Glory Blue `#0A3161`. This project uses the actual official flag colors, sourced from Wikipedia/Wikimedia Commons SVGs, and documents every color in `colors.csv`.
+**Colors are simplified.** circle-flags maps every flag to an 11-color palette for visual consistency. That's a reasonable design choice, but it means the US flag uses `#d80027` instead of Old Glory Red `#B31942`, and `#0052b4` instead of Old Glory Blue `#0A3161`. This project uses the actual official flag colors, sourced from Wikipedia/Wikimedia Commons SVGs, and documents every color below.
 
 **Symlinks cause problems.** The language flags in circle-flags are symlinks pointing to country flags. Symlinks break in Xcode asset catalogs, some npm packaging, and cross-platform workflows. This project duplicates files instead — every flag is a standalone SVG.
 
@@ -65,8 +65,7 @@ svg-flags/
 │   └── (same subcategories)
 ├── full-size/
 │   └── (same subcategories)
-├── colors.csv         # Color reference with official sources
-└── index.html       # Visual gallery (open in browser)
+└── index.html         # Visual gallery (open in browser)
 ```
 
 ## Categories
@@ -157,7 +156,7 @@ All SVGs in this project follow these rules for maximum compatibility:
 
 ## Color Sources
 
-Every color is documented in `colors.csv` with a source URL. We prefer Wikipedia/Wikimedia Commons SVGs as the primary color reference:
+Every color is sourced from Wikipedia/Wikimedia Commons SVGs:
 
 - **US:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg) — <img src="swatches/B31942.svg" width="12"> `#B31942` (Old Glory Red), <img src="swatches/0A3161.svg" width="12"> `#0A3161` (Old Glory Blue)
 - **UK:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg) — <img src="swatches/C8102E.svg" width="12"> `#C8102E` (red), <img src="swatches/012169.svg" width="12"> `#012169` (blue)
