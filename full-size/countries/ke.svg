@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="-120 -80 240 160">
+  <!-- Background white stripes -->
+  <path fill="#fff" d="M-120-80h240V80h-240z"/>
+  <!-- Black stripe (top) -->
+  <path fill="#000" d="M-120-80h240v48h-240z"/>
+  <!-- Green stripe (bottom) -->
+  <path fill="#060" d="M-120 32h240v48h-240z"/>
+  <!-- Right spear: stroke + fill -->
+  <path stroke="#000" stroke-miterlimit="10" fill="none" d="M-1 55.426h2V-38c2-2 2-5 2-8 0-2 0-10-3-18.663C-3-56-3-48-3-46c0 3 0 6 2 8z" transform="rotate(30)"/>
+  <path fill="#fff" d="M-1 55.426h2V-38c2-2 2-5 2-8 0-2 0-10-3-18.663C-3-56-3-48-3-46c0 3 0 6 2 8z" transform="rotate(30)"/>
+  <!-- Left spear: mirrored -->
+  <path stroke="#000" stroke-miterlimit="10" fill="none" d="M-1 55.426h2V-38c2-2 2-5 2-8 0-2 0-10-3-18.663C-3-56-3-48-3-46c0 3 0 6 2 8z" transform="scale(-1 1) rotate(30)"/>
+  <path fill="#fff" d="M-1 55.426h2V-38c2-2 2-5 2-8 0-2 0-10-3-18.663C-3-56-3-48-3-46c0 3 0 6 2 8z" transform="scale(-1 1) rotate(30)"/>
+  <!-- Red stripe with shield cutout -->
+  <path fill="#b00" d="M-120-24v48h101c3 8 13 24 19 24s16-16 19-24h101v-48H19C16-32 6-48 0-48s-16 16-19 24z"/>
+  <!-- Shield edges (right) -->
+  <path fill="#000" d="M19 24c3-8 5-16 5-24s-2-16-5-24c-3 8-5 16-5 24s2 16 5 24"/>
+  <!-- Shield edges (left, mirrored) -->
+  <path fill="#000" d="M-19 24c-3-8-5-16-5-24s2-16 5-24c3 8 5 16 5 24s-2 16-5 24"/>
+  <!-- Shield decorations -->
+  <g fill="#fff">
+    <ellipse rx="4" ry="6"/>
+    <!-- D: original -->
+    <path d="M1 5.85s4 8 4 21-4 21-4 21z"/>
+    <!-- D: scale(-1) = rotate 180 -->
+    <path d="M-1-5.85s-4-8-4-21 4-21 4-21z"/>
+    <!-- D: scale(-1 1) = mirror horizontal -->
+    <path d="M-1 5.85s-4 8-4 21 4 21 4 21z"/>
+    <!-- D: scale(1 -1) = mirror vertical -->
+    <path d="M1-5.85s4-8 4-21-4-21-4-21z"/>
+  </g>
+</svg>
