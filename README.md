@@ -17,7 +17,7 @@ I use [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) in m
 | svg-flags | circle-flags |
 |:---:|:---:|
 | <img src="circle/countries/us.svg" width="96"> | <img src="comparison/circle-flags-us.svg" width="96"> |
-| ![Official colors](https://img.shields.io/badge/Official_colors-NEW-2ea44f) | ![Simplified palette](https://img.shields.io/badge/Simplified_palette-OLD-gray) |
+| Official colors ![NEW](https://img.shields.io/badge/NEW-2ea44f) | Simplified palette ![OLD](https://img.shields.io/badge/OLD-gray) |
 
 **Symlinks cause problems.** The language flags in circle-flags are symlinks pointing to country flags. Symlinks break in Xcode asset catalogs, some npm packaging, and cross-platform workflows. This project duplicates files instead — every flag is a standalone SVG.
 
