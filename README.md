@@ -36,7 +36,7 @@ Circle and rect variants include a subtle grey border (`#eaecf0`) by default. Th
 The border is the last element in each SVG, marked with a `<!-- border -->` comment:
 
 ```xml
-<!-- border --><circle cx="256" cy="256" r="255" fill="none" stroke="#eaecf0" stroke-width="2"/>
+<!-- border --><circle cx="256" cy="256" r="253" fill="none" stroke="#eaecf0" stroke-width="6"/>
 ```
 
 **To remove borders from all files:**
@@ -153,11 +153,11 @@ All SVGs in this project follow these rules for maximum compatibility:
 
 Every color is documented in `colors.csv` with a source URL. We prefer Wikipedia/Wikimedia Commons SVGs as the primary color reference:
 
-- **US:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg) — `#B31942` (Old Glory Red), `#0A3161` (Old Glory Blue)
-- **UK:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg) — `#C8102E` (red), `#012169` (blue)
-- **France:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_France.svg) — `#002654` (blue), `#CE1126` (red)
-- **Germany:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) — `#000000` (black), `#DD0000` (red), `#FFCE00` (gold)
-- **Japan:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) — `#BC002D` (red)
+- **US:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg) — <img src="swatches/B31942.svg" width="12"> `#B31942` (Old Glory Red), <img src="swatches/0A3161.svg" width="12"> `#0A3161` (Old Glory Blue)
+- **UK:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_the_United_Kingdom.svg) — <img src="swatches/C8102E.svg" width="12"> `#C8102E` (red), <img src="swatches/012169.svg" width="12"> `#012169` (blue)
+- **France:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_France.svg) — <img src="swatches/002654.svg" width="12"> `#002654` (blue), <img src="swatches/CE1126.svg" width="12"> `#CE1126` (red)
+- **Germany:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Germany.svg) — <img src="swatches/000000.svg" width="12"> `#000000` (black), <img src="swatches/DD0000.svg" width="12"> `#DD0000` (red), <img src="swatches/FFCE00.svg" width="12"> `#FFCE00` (gold)
+- **Japan:** [Wikipedia](https://en.wikipedia.org/wiki/File:Flag_of_Japan.svg) — <img src="swatches/BC002D.svg" width="12"> `#BC002D` (red)
 
 ## Usage
 
