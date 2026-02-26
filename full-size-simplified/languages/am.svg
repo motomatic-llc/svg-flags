@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600">
+<path fill="#DA121A" d="M0 0h1200v600H0z"/>
+<path fill="#FCDD09" d="M0 0h1200v400H0z"/>
+<path fill="#078930" d="M0 0h1200v200H0z"/>
+<g transform="translate(344,44)">
+  <circle cx="256" cy="256" r="123" fill="#0F47AF"/>
+  <path fill="#FCDD09" d="m256 161-17 53-26-37-18 13 28 39h-61l43 32-37 12 7 21 42-14-19 59 47-34v40h22v-40l47 35-19-60 42 14 7-21-38-12 44-32h-61l28-38-18-13-26 36z"/>
+</g>
+</svg>

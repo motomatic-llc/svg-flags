@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <rect width="1200" height="600" fill="#DA2031"/>
+  <rect x="400" width="400" height="600" fill="#0066B2"/>
+  <g transform="translate(111,44)">
+    <path fill="#FFD300" d="m89 134-8 24H56l20 15-8 24 21-15 21 15-8-24 20-15H97zm0 66a11 11 0 0 0-11 12 11 11 0 0 0 11 11 11 11 0 0 0 11-11 11 11 0 0 0-11-12m-22 34v22h44v-22zm-34 22v89h23v-89zm89 0v89h23v-89zm-33 11a22 22 0 0 0-22 22 22 22 0 0 0 22 23 22 22 0 0 0 22-23 22 22 0 0 0-22-22m-22 56v22h44v-22z"/>
+  </g>
+</svg>

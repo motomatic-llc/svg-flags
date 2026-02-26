@@ -318,73 +318,73 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 
 #### Base languages
 
-| Code | Name | Circle | Square |
-|------|------|:------:|:------:|
-| `af` | Afrikaans | <img src="circle/languages/af.svg" width="32"> | <img src="square/languages/af.svg" width="32"> |
-| `am` | Amharic | <img src="circle/languages/am.svg" width="32"> | <img src="square/languages/am.svg" width="32"> |
-| `ar` | Arabic | <img src="circle/languages/ar.svg" width="32"> | <img src="square/languages/ar.svg" width="32"> |
-| `az` | Azerbaijani | <img src="circle/languages/az.svg" width="32"> | <img src="square/languages/az.svg" width="32"> |
-| `be` | Belarusian | <img src="circle/languages/be.svg" width="32"> | <img src="square/languages/be.svg" width="32"> |
-| `bn` | Bengali | <img src="circle/languages/bn.svg" width="32"> | <img src="square/languages/bn.svg" width="32"> |
-| `bs` | Bosnian | <img src="circle/languages/bs.svg" width="32"> | <img src="square/languages/bs.svg" width="32"> |
-| `cs` | Czech | <img src="circle/languages/cs.svg" width="32"> | <img src="square/languages/cs.svg" width="32"> |
-| `da` | Danish | <img src="circle/languages/da.svg" width="32"> | <img src="square/languages/da.svg" width="32"> |
-| `de` | German | <img src="circle/languages/de.svg" width="32"> | <img src="square/languages/de.svg" width="32"> |
-| `el` | Greek | <img src="circle/languages/el.svg" width="32"> | <img src="square/languages/el.svg" width="32"> |
-| `en` | English | <img src="circle/languages/en.svg" width="32"> | <img src="square/languages/en.svg" width="32"> |
-| `es` | Spanish | <img src="circle/languages/es.svg" width="32"> | <img src="square/languages/es.svg" width="32"> |
-| `et` | Estonian | <img src="circle/languages/et.svg" width="32"> | <img src="square/languages/et.svg" width="32"> |
-| `fa` | Persian | <img src="circle/languages/fa.svg" width="32"> | <img src="square/languages/fa.svg" width="32"> |
-| `fi` | Finnish | <img src="circle/languages/fi.svg" width="32"> | <img src="square/languages/fi.svg" width="32"> |
-| `fr` | French | <img src="circle/languages/fr.svg" width="32"> | <img src="square/languages/fr.svg" width="32"> |
-| `ga` | Irish | <img src="circle/languages/ga.svg" width="32"> | <img src="square/languages/ga.svg" width="32"> |
-| `he` | Hebrew | <img src="circle/languages/he.svg" width="32"> | <img src="square/languages/he.svg" width="32"> |
-| `hi` | Hindi | <img src="circle/languages/hi.svg" width="32"> | <img src="square/languages/hi.svg" width="32"> |
-| `hr` | Croatian | <img src="circle/languages/hr.svg" width="32"> | <img src="square/languages/hr.svg" width="32"> |
-| `hu` | Hungarian | <img src="circle/languages/hu.svg" width="32"> | <img src="square/languages/hu.svg" width="32"> |
-| `id` | Indonesian | <img src="circle/languages/id.svg" width="32"> | <img src="square/languages/id.svg" width="32"> |
-| `is` | Icelandic | <img src="circle/languages/is.svg" width="32"> | <img src="square/languages/is.svg" width="32"> |
-| `it` | Italian | <img src="circle/languages/it.svg" width="32"> | <img src="square/languages/it.svg" width="32"> |
-| `ja` | Japanese | <img src="circle/languages/ja.svg" width="32"> | <img src="square/languages/ja.svg" width="32"> |
-| `ka` | Georgian | <img src="circle/languages/ka.svg" width="32"> | <img src="square/languages/ka.svg" width="32"> |
-| `kk` | Kazakh | <img src="circle/languages/kk.svg" width="32"> | <img src="square/languages/kk.svg" width="32"> |
-| `km` | Khmer | <img src="circle/languages/km.svg" width="32"> | <img src="square/languages/km.svg" width="32"> |
-| `ko` | Korean | <img src="circle/languages/ko.svg" width="32"> | <img src="square/languages/ko.svg" width="32"> |
-| `ky` | Kyrgyz | <img src="circle/languages/ky.svg" width="32"> | <img src="square/languages/ky.svg" width="32"> |
-| `lo` | Lao | <img src="circle/languages/lo.svg" width="32"> | <img src="square/languages/lo.svg" width="32"> |
-| `lt` | Lithuanian | <img src="circle/languages/lt.svg" width="32"> | <img src="square/languages/lt.svg" width="32"> |
-| `lv` | Latvian | <img src="circle/languages/lv.svg" width="32"> | <img src="square/languages/lv.svg" width="32"> |
-| `mg` | Malagasy | <img src="circle/languages/mg.svg" width="32"> | <img src="square/languages/mg.svg" width="32"> |
-| `mk` | Macedonian | <img src="circle/languages/mk.svg" width="32"> | <img src="square/languages/mk.svg" width="32"> |
-| `mn` | Mongolian | <img src="circle/languages/mn.svg" width="32"> | <img src="square/languages/mn.svg" width="32"> |
-| `ms` | Malay | <img src="circle/languages/ms.svg" width="32"> | <img src="square/languages/ms.svg" width="32"> |
-| `mt` | Maltese | <img src="circle/languages/mt.svg" width="32"> | <img src="square/languages/mt.svg" width="32"> |
-| `my` | Burmese | <img src="circle/languages/my.svg" width="32"> | <img src="square/languages/my.svg" width="32"> |
-| `ne` | Nepali | <img src="circle/languages/ne.svg" width="32"> | <img src="square/languages/ne.svg" width="32"> |
-| `nl` | Dutch | <img src="circle/languages/nl.svg" width="32"> | <img src="square/languages/nl.svg" width="32"> |
-| `no` | Norwegian | <img src="circle/languages/no.svg" width="32"> | <img src="square/languages/no.svg" width="32"> |
-| `pl` | Polish | <img src="circle/languages/pl.svg" width="32"> | <img src="square/languages/pl.svg" width="32"> |
-| `ps` | Pashto | <img src="circle/languages/ps.svg" width="32"> | <img src="square/languages/ps.svg" width="32"> |
-| `pt` | Portuguese | <img src="circle/languages/pt.svg" width="32"> | <img src="square/languages/pt.svg" width="32"> |
-| `ro` | Romanian | <img src="circle/languages/ro.svg" width="32"> | <img src="square/languages/ro.svg" width="32"> |
-| `ru` | Russian | <img src="circle/languages/ru.svg" width="32"> | <img src="square/languages/ru.svg" width="32"> |
-| `sk` | Slovak | <img src="circle/languages/sk.svg" width="32"> | <img src="square/languages/sk.svg" width="32"> |
-| `sl` | Slovenian | <img src="circle/languages/sl.svg" width="32"> | <img src="square/languages/sl.svg" width="32"> |
-| `so` | Somali | <img src="circle/languages/so.svg" width="32"> | <img src="square/languages/so.svg" width="32"> |
-| `sq` | Albanian | <img src="circle/languages/sq.svg" width="32"> | <img src="square/languages/sq.svg" width="32"> |
-| `sr` | Serbian | <img src="circle/languages/sr.svg" width="32"> | <img src="square/languages/sr.svg" width="32"> |
-| `sv` | Swedish | <img src="circle/languages/sv.svg" width="32"> | <img src="square/languages/sv.svg" width="32"> |
-| `sw` | Swahili | <img src="circle/languages/sw.svg" width="32"> | <img src="square/languages/sw.svg" width="32"> |
-| `tg` | Tajik | <img src="circle/languages/tg.svg" width="32"> | <img src="square/languages/tg.svg" width="32"> |
-| `th` | Thai | <img src="circle/languages/th.svg" width="32"> | <img src="square/languages/th.svg" width="32"> |
-| `tk` | Turkmen | <img src="circle/languages/tk.svg" width="32"> | <img src="square/languages/tk.svg" width="32"> |
-| `tl` | Tagalog | <img src="circle/languages/tl.svg" width="32"> | <img src="square/languages/tl.svg" width="32"> |
-| `tr` | Turkish | <img src="circle/languages/tr.svg" width="32"> | <img src="square/languages/tr.svg" width="32"> |
-| `uk` | Ukrainian | <img src="circle/languages/uk.svg" width="32"> | <img src="square/languages/uk.svg" width="32"> |
-| `ur` | Urdu | <img src="circle/languages/ur.svg" width="32"> | <img src="square/languages/ur.svg" width="32"> |
-| `uz` | Uzbek | <img src="circle/languages/uz.svg" width="32"> | <img src="square/languages/uz.svg" width="32"> |
-| `vi` | Vietnamese | <img src="circle/languages/vi.svg" width="32"> | <img src="square/languages/vi.svg" width="32"> |
-| `zh` | Chinese | <img src="circle/languages/zh.svg" width="32"> | <img src="square/languages/zh.svg" width="32"> |
+| Code | Name | Circle | Square | Full-size | Simplified |
+|------|------|:------:|:------:|:---------:|:----------:|
+| `af` | Afrikaans | <img src="circle/languages/af.svg" width="32"> | <img src="square/languages/af.svg" width="32"> | <img src="full-size/languages/af.svg" width="48"> | <img src="full-size-simplified/languages/af.svg" width="48"> |
+| `am` | Amharic | <img src="circle/languages/am.svg" width="32"> | <img src="square/languages/am.svg" width="32"> | <img src="full-size/languages/am.svg" width="48"> | <img src="full-size-simplified/languages/am.svg" width="48"> |
+| `ar` | Arabic | <img src="circle/languages/ar.svg" width="32"> | <img src="square/languages/ar.svg" width="32"> | <img src="full-size/languages/ar.svg" width="48"> | <img src="full-size-simplified/languages/ar.svg" width="48"> |
+| `az` | Azerbaijani | <img src="circle/languages/az.svg" width="32"> | <img src="square/languages/az.svg" width="32"> | <img src="full-size/languages/az.svg" width="48"> | <img src="full-size-simplified/languages/az.svg" width="48"> |
+| `be` | Belarusian | <img src="circle/languages/be.svg" width="32"> | <img src="square/languages/be.svg" width="32"> | <img src="full-size/languages/be.svg" width="48"> | <img src="full-size-simplified/languages/be.svg" width="48"> |
+| `bn` | Bengali | <img src="circle/languages/bn.svg" width="32"> | <img src="square/languages/bn.svg" width="32"> | <img src="full-size/languages/bn.svg" width="48"> | <img src="full-size-simplified/languages/bn.svg" width="48"> |
+| `bs` | Bosnian | <img src="circle/languages/bs.svg" width="32"> | <img src="square/languages/bs.svg" width="32"> | <img src="full-size/languages/bs.svg" width="48"> | <img src="full-size-simplified/languages/bs.svg" width="48"> |
+| `cs` | Czech | <img src="circle/languages/cs.svg" width="32"> | <img src="square/languages/cs.svg" width="32"> | <img src="full-size/languages/cs.svg" width="48"> | <img src="full-size-simplified/languages/cs.svg" width="48"> |
+| `da` | Danish | <img src="circle/languages/da.svg" width="32"> | <img src="square/languages/da.svg" width="32"> | <img src="full-size/languages/da.svg" width="48"> | <img src="full-size-simplified/languages/da.svg" width="48"> |
+| `de` | German | <img src="circle/languages/de.svg" width="32"> | <img src="square/languages/de.svg" width="32"> | <img src="full-size/languages/de.svg" width="48"> | <img src="full-size-simplified/languages/de.svg" width="48"> |
+| `el` | Greek | <img src="circle/languages/el.svg" width="32"> | <img src="square/languages/el.svg" width="32"> | <img src="full-size/languages/el.svg" width="48"> | <img src="full-size-simplified/languages/el.svg" width="48"> |
+| `en` | English | <img src="circle/languages/en.svg" width="32"> | <img src="square/languages/en.svg" width="32"> | <img src="full-size/languages/en.svg" width="48"> | <img src="full-size-simplified/languages/en.svg" width="48"> |
+| `es` | Spanish | <img src="circle/languages/es.svg" width="32"> | <img src="square/languages/es.svg" width="32"> | <img src="full-size/languages/es.svg" width="48"> | <img src="full-size-simplified/languages/es.svg" width="48"> |
+| `et` | Estonian | <img src="circle/languages/et.svg" width="32"> | <img src="square/languages/et.svg" width="32"> | <img src="full-size/languages/et.svg" width="48"> | <img src="full-size-simplified/languages/et.svg" width="48"> |
+| `fa` | Persian | <img src="circle/languages/fa.svg" width="32"> | <img src="square/languages/fa.svg" width="32"> | <img src="full-size/languages/fa.svg" width="48"> | <img src="full-size-simplified/languages/fa.svg" width="48"> |
+| `fi` | Finnish | <img src="circle/languages/fi.svg" width="32"> | <img src="square/languages/fi.svg" width="32"> | <img src="full-size/languages/fi.svg" width="48"> | <img src="full-size-simplified/languages/fi.svg" width="48"> |
+| `fr` | French | <img src="circle/languages/fr.svg" width="32"> | <img src="square/languages/fr.svg" width="32"> | <img src="full-size/languages/fr.svg" width="48"> | <img src="full-size-simplified/languages/fr.svg" width="48"> |
+| `ga` | Irish | <img src="circle/languages/ga.svg" width="32"> | <img src="square/languages/ga.svg" width="32"> | <img src="full-size/languages/ga.svg" width="48"> | <img src="full-size-simplified/languages/ga.svg" width="48"> |
+| `he` | Hebrew | <img src="circle/languages/he.svg" width="32"> | <img src="square/languages/he.svg" width="32"> | <img src="full-size/languages/he.svg" width="48"> | <img src="full-size-simplified/languages/he.svg" width="48"> |
+| `hi` | Hindi | <img src="circle/languages/hi.svg" width="32"> | <img src="square/languages/hi.svg" width="32"> | <img src="full-size/languages/hi.svg" width="48"> | <img src="full-size-simplified/languages/hi.svg" width="48"> |
+| `hr` | Croatian | <img src="circle/languages/hr.svg" width="32"> | <img src="square/languages/hr.svg" width="32"> | <img src="full-size/languages/hr.svg" width="48"> | <img src="full-size-simplified/languages/hr.svg" width="48"> |
+| `hu` | Hungarian | <img src="circle/languages/hu.svg" width="32"> | <img src="square/languages/hu.svg" width="32"> | <img src="full-size/languages/hu.svg" width="48"> | <img src="full-size-simplified/languages/hu.svg" width="48"> |
+| `id` | Indonesian | <img src="circle/languages/id.svg" width="32"> | <img src="square/languages/id.svg" width="32"> | <img src="full-size/languages/id.svg" width="48"> | <img src="full-size-simplified/languages/id.svg" width="48"> |
+| `is` | Icelandic | <img src="circle/languages/is.svg" width="32"> | <img src="square/languages/is.svg" width="32"> | <img src="full-size/languages/is.svg" width="48"> | <img src="full-size-simplified/languages/is.svg" width="48"> |
+| `it` | Italian | <img src="circle/languages/it.svg" width="32"> | <img src="square/languages/it.svg" width="32"> | <img src="full-size/languages/it.svg" width="48"> | <img src="full-size-simplified/languages/it.svg" width="48"> |
+| `ja` | Japanese | <img src="circle/languages/ja.svg" width="32"> | <img src="square/languages/ja.svg" width="32"> | <img src="full-size/languages/ja.svg" width="48"> | <img src="full-size-simplified/languages/ja.svg" width="48"> |
+| `ka` | Georgian | <img src="circle/languages/ka.svg" width="32"> | <img src="square/languages/ka.svg" width="32"> | <img src="full-size/languages/ka.svg" width="48"> | <img src="full-size-simplified/languages/ka.svg" width="48"> |
+| `kk` | Kazakh | <img src="circle/languages/kk.svg" width="32"> | <img src="square/languages/kk.svg" width="32"> | <img src="full-size/languages/kk.svg" width="48"> | <img src="full-size-simplified/languages/kk.svg" width="48"> |
+| `km` | Khmer | <img src="circle/languages/km.svg" width="32"> | <img src="square/languages/km.svg" width="32"> | <img src="full-size/languages/km.svg" width="48"> | <img src="full-size-simplified/languages/km.svg" width="48"> |
+| `ko` | Korean | <img src="circle/languages/ko.svg" width="32"> | <img src="square/languages/ko.svg" width="32"> | <img src="full-size/languages/ko.svg" width="48"> | <img src="full-size-simplified/languages/ko.svg" width="48"> |
+| `ky` | Kyrgyz | <img src="circle/languages/ky.svg" width="32"> | <img src="square/languages/ky.svg" width="32"> | <img src="full-size/languages/ky.svg" width="48"> | <img src="full-size-simplified/languages/ky.svg" width="48"> |
+| `lo` | Lao | <img src="circle/languages/lo.svg" width="32"> | <img src="square/languages/lo.svg" width="32"> | <img src="full-size/languages/lo.svg" width="48"> | <img src="full-size-simplified/languages/lo.svg" width="48"> |
+| `lt` | Lithuanian | <img src="circle/languages/lt.svg" width="32"> | <img src="square/languages/lt.svg" width="32"> | <img src="full-size/languages/lt.svg" width="48"> | <img src="full-size-simplified/languages/lt.svg" width="48"> |
+| `lv` | Latvian | <img src="circle/languages/lv.svg" width="32"> | <img src="square/languages/lv.svg" width="32"> | <img src="full-size/languages/lv.svg" width="48"> | <img src="full-size-simplified/languages/lv.svg" width="48"> |
+| `mg` | Malagasy | <img src="circle/languages/mg.svg" width="32"> | <img src="square/languages/mg.svg" width="32"> | <img src="full-size/languages/mg.svg" width="48"> | <img src="full-size-simplified/languages/mg.svg" width="48"> |
+| `mk` | Macedonian | <img src="circle/languages/mk.svg" width="32"> | <img src="square/languages/mk.svg" width="32"> | <img src="full-size/languages/mk.svg" width="48"> | <img src="full-size-simplified/languages/mk.svg" width="48"> |
+| `mn` | Mongolian | <img src="circle/languages/mn.svg" width="32"> | <img src="square/languages/mn.svg" width="32"> | <img src="full-size/languages/mn.svg" width="48"> | <img src="full-size-simplified/languages/mn.svg" width="48"> |
+| `ms` | Malay | <img src="circle/languages/ms.svg" width="32"> | <img src="square/languages/ms.svg" width="32"> | <img src="full-size/languages/ms.svg" width="48"> | <img src="full-size-simplified/languages/ms.svg" width="48"> |
+| `mt` | Maltese | <img src="circle/languages/mt.svg" width="32"> | <img src="square/languages/mt.svg" width="32"> | <img src="full-size/languages/mt.svg" width="48"> | <img src="full-size-simplified/languages/mt.svg" width="48"> |
+| `my` | Burmese | <img src="circle/languages/my.svg" width="32"> | <img src="square/languages/my.svg" width="32"> | <img src="full-size/languages/my.svg" width="48"> | <img src="full-size-simplified/languages/my.svg" width="48"> |
+| `ne` | Nepali | <img src="circle/languages/ne.svg" width="32"> | <img src="square/languages/ne.svg" width="32"> | <img src="full-size/languages/ne.svg" width="48"> | <img src="full-size-simplified/languages/ne.svg" width="48"> |
+| `nl` | Dutch | <img src="circle/languages/nl.svg" width="32"> | <img src="square/languages/nl.svg" width="32"> | <img src="full-size/languages/nl.svg" width="48"> | <img src="full-size-simplified/languages/nl.svg" width="48"> |
+| `no` | Norwegian | <img src="circle/languages/no.svg" width="32"> | <img src="square/languages/no.svg" width="32"> | <img src="full-size/languages/no.svg" width="48"> | <img src="full-size-simplified/languages/no.svg" width="48"> |
+| `pl` | Polish | <img src="circle/languages/pl.svg" width="32"> | <img src="square/languages/pl.svg" width="32"> | <img src="full-size/languages/pl.svg" width="48"> | <img src="full-size-simplified/languages/pl.svg" width="48"> |
+| `ps` | Pashto | <img src="circle/languages/ps.svg" width="32"> | <img src="square/languages/ps.svg" width="32"> | <img src="full-size/languages/ps.svg" width="48"> | <img src="full-size-simplified/languages/ps.svg" width="48"> |
+| `pt` | Portuguese | <img src="circle/languages/pt.svg" width="32"> | <img src="square/languages/pt.svg" width="32"> | <img src="full-size/languages/pt.svg" width="48"> | <img src="full-size-simplified/languages/pt.svg" width="48"> |
+| `ro` | Romanian | <img src="circle/languages/ro.svg" width="32"> | <img src="square/languages/ro.svg" width="32"> | <img src="full-size/languages/ro.svg" width="48"> | <img src="full-size-simplified/languages/ro.svg" width="48"> |
+| `ru` | Russian | <img src="circle/languages/ru.svg" width="32"> | <img src="square/languages/ru.svg" width="32"> | <img src="full-size/languages/ru.svg" width="48"> | <img src="full-size-simplified/languages/ru.svg" width="48"> |
+| `sk` | Slovak | <img src="circle/languages/sk.svg" width="32"> | <img src="square/languages/sk.svg" width="32"> | <img src="full-size/languages/sk.svg" width="48"> | <img src="full-size-simplified/languages/sk.svg" width="48"> |
+| `sl` | Slovenian | <img src="circle/languages/sl.svg" width="32"> | <img src="square/languages/sl.svg" width="32"> | <img src="full-size/languages/sl.svg" width="48"> | <img src="full-size-simplified/languages/sl.svg" width="48"> |
+| `so` | Somali | <img src="circle/languages/so.svg" width="32"> | <img src="square/languages/so.svg" width="32"> | <img src="full-size/languages/so.svg" width="48"> | <img src="full-size-simplified/languages/so.svg" width="48"> |
+| `sq` | Albanian | <img src="circle/languages/sq.svg" width="32"> | <img src="square/languages/sq.svg" width="32"> | <img src="full-size/languages/sq.svg" width="48"> | <img src="full-size-simplified/languages/sq.svg" width="48"> |
+| `sr` | Serbian | <img src="circle/languages/sr.svg" width="32"> | <img src="square/languages/sr.svg" width="32"> | <img src="full-size/languages/sr.svg" width="48"> | <img src="full-size-simplified/languages/sr.svg" width="48"> |
+| `sv` | Swedish | <img src="circle/languages/sv.svg" width="32"> | <img src="square/languages/sv.svg" width="32"> | <img src="full-size/languages/sv.svg" width="48"> | <img src="full-size-simplified/languages/sv.svg" width="48"> |
+| `sw` | Swahili | <img src="circle/languages/sw.svg" width="32"> | <img src="square/languages/sw.svg" width="32"> | <img src="full-size/languages/sw.svg" width="48"> | <img src="full-size-simplified/languages/sw.svg" width="48"> |
+| `tg` | Tajik | <img src="circle/languages/tg.svg" width="32"> | <img src="square/languages/tg.svg" width="32"> | <img src="full-size/languages/tg.svg" width="48"> | <img src="full-size-simplified/languages/tg.svg" width="48"> |
+| `th` | Thai | <img src="circle/languages/th.svg" width="32"> | <img src="square/languages/th.svg" width="32"> | <img src="full-size/languages/th.svg" width="48"> | <img src="full-size-simplified/languages/th.svg" width="48"> |
+| `tk` | Turkmen | <img src="circle/languages/tk.svg" width="32"> | <img src="square/languages/tk.svg" width="32"> | <img src="full-size/languages/tk.svg" width="48"> | <img src="full-size-simplified/languages/tk.svg" width="48"> |
+| `tl` | Tagalog | <img src="circle/languages/tl.svg" width="32"> | <img src="square/languages/tl.svg" width="32"> | <img src="full-size/languages/tl.svg" width="48"> | <img src="full-size-simplified/languages/tl.svg" width="48"> |
+| `tr` | Turkish | <img src="circle/languages/tr.svg" width="32"> | <img src="square/languages/tr.svg" width="32"> | <img src="full-size/languages/tr.svg" width="48"> | <img src="full-size-simplified/languages/tr.svg" width="48"> |
+| `uk` | Ukrainian | <img src="circle/languages/uk.svg" width="32"> | <img src="square/languages/uk.svg" width="32"> | <img src="full-size/languages/uk.svg" width="48"> | <img src="full-size-simplified/languages/uk.svg" width="48"> |
+| `ur` | Urdu | <img src="circle/languages/ur.svg" width="32"> | <img src="square/languages/ur.svg" width="32"> | <img src="full-size/languages/ur.svg" width="48"> | <img src="full-size-simplified/languages/ur.svg" width="48"> |
+| `uz` | Uzbek | <img src="circle/languages/uz.svg" width="32"> | <img src="square/languages/uz.svg" width="32"> | <img src="full-size/languages/uz.svg" width="48"> | <img src="full-size-simplified/languages/uz.svg" width="48"> |
+| `vi` | Vietnamese | <img src="circle/languages/vi.svg" width="32"> | <img src="square/languages/vi.svg" width="32"> | <img src="full-size/languages/vi.svg" width="48"> | <img src="full-size-simplified/languages/vi.svg" width="48"> |
+| `zh` | Chinese | <img src="circle/languages/zh.svg" width="32"> | <img src="square/languages/zh.svg" width="32"> | <img src="full-size/languages/zh.svg" width="48"> | <img src="full-size-simplified/languages/zh.svg" width="48"> |
 
 #### Locale variants
 
