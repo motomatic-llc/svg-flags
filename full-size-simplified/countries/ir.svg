@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="360">
+  <path fill="#239F40" d="M0 0h630v120H0z"/>
+  <path fill="#FFFFFF" d="M0 120h630v120H0z"/>
+  <path fill="#DA0000" d="M0 240h630v120H0z"/>
+  <!-- Simplified emblem from square variant, translated to full-size center -->
+  <g transform="translate(59,-76)">
+    <path fill="#DA0000" d="M339.1 189.3h-33.4c.2 3.7.4 7.4.4 11.1 0 24.8-6.2 48.8-17 66-3.3 5.2-9 12.6-16.4 17.6v-94.7h-33.4v94.8c-7.5-5-13-12.4-16.4-17.7-10.8-17-17-41-17-65.9 0-3.7.2-7.4.4-11H173a190 190 0 0 0-.4 11c0 68.7 36.7 122.5 83.5 122.5s83.5-53.8 83.5-122.5c0-3.7-.1-7.4-.4-11z"/>
+  </g>
+  <!-- Simplified Kufic border (top) -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="1.5">
+    <path d="M0 114h630M0 126h630"/>
+    <path d="M30 108v18M60 108v18M90 108v18M120 108v18M150 108v18M180 108v18M210 108v18M240 108v18M270 108v18M300 108v18M330 108v18M360 108v18M390 108v18M420 108v18M450 108v18M480 108v18M510 108v18M540 108v18M570 108v18M600 108v18"/>
+  </g>
+  <!-- Simplified Kufic border (bottom) -->
+  <g fill="none" stroke="#DA0000" stroke-width="1.5">
+    <path d="M0 234h630M0 246h630"/>
+    <path d="M30 228v18M60 228v18M90 228v18M120 228v18M150 228v18M180 228v18M210 228v18M240 228v18M270 228v18M300 228v18M330 228v18M360 228v18M390 228v18M420 228v18M450 228v18M480 228v18M510 228v18M540 228v18M570 228v18M600 228v18"/>
+  </g>
+</svg>
