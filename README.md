@@ -414,6 +414,27 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 
 ### Subdivisions (ISO 3166-2)
 
+#### Australia
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `au-act` | [Australian Capital Territory](https://en.wikipedia.org/wiki/Australian_Capital_Territory) | | | | | |
+| `au-nsw` | [New South Wales](https://en.wikipedia.org/wiki/New_South_Wales) | | | | | |
+| `au-nt` | [Northern Territory](https://en.wikipedia.org/wiki/Northern_Territory) | | | | | |
+| `au-qld` | [Queensland](https://en.wikipedia.org/wiki/Queensland) | | | | | |
+| `au-sa` | [South Australia](https://en.wikipedia.org/wiki/South_Australia) | | | | | |
+| `au-tas` | [Tasmania](https://en.wikipedia.org/wiki/Tasmania) | | | | | |
+| `au-vic` | [Victoria (state)](https://en.wikipedia.org/wiki/Victoria_(state)) | | | | | |
+| `au-wa` | [Western Australia](https://en.wikipedia.org/wiki/Western_Australia) | | | | | |
+
+#### Bonaire, Sint Eustatius and Saba
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `bq-bo` | [Bonaire](https://en.wikipedia.org/wiki/Bonaire) | | | | | |
+| `bq-sa` | [Saba](https://en.wikipedia.org/wiki/Saba_(island)) | | | | | |
+| `bq-se` | [Sint Eustatius](https://en.wikipedia.org/wiki/Sint_Eustatius) | | | | | |
+
 #### Canada
 
 | Code | Name | Circle | Square | Simplified | Full-size | Colors |
@@ -421,11 +442,203 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 | `ca-bc` | [British Columbia](https://en.wikipedia.org/wiki/British_Columbia) | <img src="circle/states/ca-bc.svg" width="32"> | <img src="square/states/ca-bc.svg" width="32"> | <img src="full-size-simplified/states/ca-bc.svg" height="20"> | [✓](full-size/states/ca-bc.svg) | [<img src="swatches/0047BB.svg" width="12">`#0047BB`](https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg)<br>[<img src="swatches/D22630.svg" width="12">`#D22630`](https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg)<br>[<img src="swatches/FFD200.svg" width="12">`#FFD200`](https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_British_Columbia.svg) |
 | `ca-qc` | [Quebec](https://en.wikipedia.org/wiki/Quebec) | <img src="circle/states/ca-qc.svg" width="32"> | <img src="square/states/ca-qc.svg" width="32"> | <img src="full-size-simplified/states/ca-qc.svg" height="20"> | [✓](full-size/states/ca-qc.svg) | [<img src="swatches/003DA5.svg" width="12">`#003DA5`](https://commons.wikimedia.org/wiki/File:Flag_of_Quebec.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_Quebec.svg) |
 
+#### China
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `cn-xj` | [Xinjiang](https://en.wikipedia.org/wiki/Xinjiang) | | | | | |
+| `cn-xz` | [Tibet](https://en.wikipedia.org/wiki/Tibet) | | | | | |
+
+#### Ethiopia
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `et-af` | [Afar Region](https://en.wikipedia.org/wiki/Afar_Region) | | | | | |
+| `et-am` | [Amhara Region](https://en.wikipedia.org/wiki/Amhara_Region) | | | | | |
+| `et-be` | [Benishangul-Gumuz](https://en.wikipedia.org/wiki/Benishangul-Gumuz_Region) | | | | | |
+| `et-ga` | [Gambela](https://en.wikipedia.org/wiki/Gambela_Region) | | | | | |
+| `et-ha` | [Harari](https://en.wikipedia.org/wiki/Harari_Region) | | | | | |
+| `et-or` | [Oromia](https://en.wikipedia.org/wiki/Oromia_Region) | | | | | |
+| `et-si` | [Sidama](https://en.wikipedia.org/wiki/Sidama_Region) | | | | | |
+| `et-sn` | [Southern Nations, Nationalities, and Peoples' Region](https://en.wikipedia.org/wiki/Southern_Nations,_Nationalities,_and_Peoples%27_Region) | | | | | |
+| `et-so` | [Somali Region](https://en.wikipedia.org/wiki/Somali_Region) | | | | | |
+| `et-sw` | [South West Region](https://en.wikipedia.org/wiki/South_West_Ethiopia_Peoples%27_Region) | | | | | |
+| `et-ti` | [Tigray](https://en.wikipedia.org/wiki/Tigray_Region) | | | | | |
+
+#### France
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `fr-20r` | [Corsica](https://en.wikipedia.org/wiki/Corsica) | | | | | |
+| `fr-bre` | [Brittany](https://en.wikipedia.org/wiki/Brittany) | | | | | |
+| `fr-cp` | [Clipperton Island](https://en.wikipedia.org/wiki/Clipperton_Island) | | | | | |
+
+#### Georgia
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `ge-ab` | [Abkhazia](https://en.wikipedia.org/wiki/Abkhazia) | | | | | |
+
+#### Indonesia
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `id-jb` | [West Java](https://en.wikipedia.org/wiki/West_Java) | | | | | |
+| `id-jt` | [Central Java](https://en.wikipedia.org/wiki/Central_Java) | | | | | |
+
+#### India
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `in-as` | [Assam](https://en.wikipedia.org/wiki/Assam) | | | | | |
+| `in-gj` | [Gujarat](https://en.wikipedia.org/wiki/Gujarat) | | | | | |
+| `in-ka` | [Karnataka](https://en.wikipedia.org/wiki/Karnataka) | | | | | |
+| `in-mn` | [Manipur](https://en.wikipedia.org/wiki/Manipur) | | | | | |
+| `in-mz` | [Mizoram](https://en.wikipedia.org/wiki/Mizoram) | | | | | |
+| `in-or` | [Odisha](https://en.wikipedia.org/wiki/Odisha) | | | | | |
+| `in-tg` | [Telangana](https://en.wikipedia.org/wiki/Telangana) | | | | | |
+| `in-tn` | [Tamil Nadu](https://en.wikipedia.org/wiki/Tamil_Nadu) | | | | | |
+
+#### Iraq
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `iq-kr` | [Kurdistan Region](https://en.wikipedia.org/wiki/Kurdistan_Region) | | | | | |
+
+#### Italy
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `it-21` | [Piedmont](https://en.wikipedia.org/wiki/Piedmont) | | | | | |
+| `it-23` | [Aosta Valley](https://en.wikipedia.org/wiki/Aosta_Valley) | | | | | |
+| `it-25` | [Lombardy](https://en.wikipedia.org/wiki/Lombardy) | | | | | |
+| `it-32` | [Trentino-Alto Adige](https://en.wikipedia.org/wiki/Trentino-Alto_Adige) | | | | | |
+| `it-34` | [Veneto](https://en.wikipedia.org/wiki/Veneto) | | | | | |
+| `it-36` | [Friuli Venezia Giulia](https://en.wikipedia.org/wiki/Friuli-Venezia_Giulia) | | | | | |
+| `it-42` | [Liguria](https://en.wikipedia.org/wiki/Liguria) | | | | | |
+| `it-45` | [Emilia-Romagna](https://en.wikipedia.org/wiki/Emilia-Romagna) | | | | | |
+| `it-52` | [Tuscany](https://en.wikipedia.org/wiki/Tuscany) | | | | | |
+| `it-55` | [Umbria](https://en.wikipedia.org/wiki/Umbria) | | | | | |
+| `it-57` | [Marche](https://en.wikipedia.org/wiki/Marche) | | | | | |
+| `it-62` | [Lazio](https://en.wikipedia.org/wiki/Lazio) | | | | | |
+| `it-65` | [Abruzzo](https://en.wikipedia.org/wiki/Abruzzo) | | | | | |
+| `it-67` | [Molise](https://en.wikipedia.org/wiki/Molise) | | | | | |
+| `it-72` | [Campania](https://en.wikipedia.org/wiki/Campania) | | | | | |
+| `it-75` | [Apulia](https://en.wikipedia.org/wiki/Apulia) | | | | | |
+| `it-77` | [Basilicata](https://en.wikipedia.org/wiki/Basilicata) | | | | | |
+| `it-78` | [Calabria](https://en.wikipedia.org/wiki/Calabria) | | | | | |
+| `it-82` | [Sicily](https://en.wikipedia.org/wiki/Sicily) | | | | | |
+| `it-88` | [Sardinia](https://en.wikipedia.org/wiki/Sardinia) | | | | | |
+
+#### Netherlands
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `nl-fr` | [Friesland](https://en.wikipedia.org/wiki/Friesland) | | | | | |
+
+#### Pakistan
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `pk-jk` | [Azad Kashmir](https://en.wikipedia.org/wiki/Azad_Kashmir) | | | | | |
+| `pk-sd` | [Sindh](https://en.wikipedia.org/wiki/Sindh) | | | | | |
+
+#### Portugal
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `pt-20` | [Azores](https://en.wikipedia.org/wiki/Azores) | | | | | |
+| `pt-30` | [Madeira](https://en.wikipedia.org/wiki/Madeira) | | | | | |
+
+#### Russia
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `ru-ba` | [Bashkortostan](https://en.wikipedia.org/wiki/Bashkortostan) | | | | | |
+| `ru-ce` | [Chechnya](https://en.wikipedia.org/wiki/Chechnya) | | | | | |
+| `ru-cu` | [Chuvashia](https://en.wikipedia.org/wiki/Chuvashia) | | | | | |
+| `ru-da` | [Dagestan](https://en.wikipedia.org/wiki/Dagestan) | | | | | |
+| `ru-dpr` | [Donetsk People's Republic](https://en.wikipedia.org/wiki/Donetsk_People%27s_Republic) | | | | | |
+| `ru-ko` | [Komi Republic](https://en.wikipedia.org/wiki/Komi_Republic) | | | | | |
+| `ru-lpr` | [Luhansk People's Republic](https://en.wikipedia.org/wiki/Luhansk_People%27s_Republic) | | | | | |
+| `ru-ta` | [Tatarstan](https://en.wikipedia.org/wiki/Tatarstan) | | | | | |
+| `ru-ud` | [Udmurtia](https://en.wikipedia.org/wiki/Udmurtia) | | | | | |
+
+#### Saint Helena, Ascension and Tristan da Cunha
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `sh-ac` | [Ascension Island](https://en.wikipedia.org/wiki/Ascension_Island) | | | | | |
+| `sh-hl` | [Saint Helena](https://en.wikipedia.org/wiki/Saint_Helena) | | | | | |
+| `sh-ta` | [Tristan da Cunha](https://en.wikipedia.org/wiki/Tristan_da_Cunha) | | | | | |
+
+#### Spain
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `es-ar` | [Aragon](https://en.wikipedia.org/wiki/Aragon) | | | | | |
+| `es-ce` | [Ceuta](https://en.wikipedia.org/wiki/Ceuta) | | | | | |
+| `es-cn` | [Canary Islands](https://en.wikipedia.org/wiki/Canary_Islands) | | | | | |
+| `es-ct` | [Catalonia](https://en.wikipedia.org/wiki/Catalonia) | | | | | |
+| `es-ga` | [Galicia](https://en.wikipedia.org/wiki/Galicia_(Spain)) | | | | | |
+| `es-ib` | [Balearic Islands](https://en.wikipedia.org/wiki/Balearic_Islands) | | | | | |
+| `es-ml` | [Melilla](https://en.wikipedia.org/wiki/Melilla) | | | | | |
+| `es-pv` | [Basque Country](https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)) | | | | | |
+| `es-vc` | [Valencia](https://en.wikipedia.org/wiki/Valencian_Community) | | | | | |
+
+#### Switzerland
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `ch-gr` | [Grisons](https://en.wikipedia.org/wiki/Grisons) | | | | | |
+
+#### Ukraine
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `ua-bpr` | [Belgorod People's Republic](https://en.wikipedia.org/wiki/Belgorod_People%27s_Republic) | | | | | |
+| `ua-kpr` | [Kursk People's Republic](https://en.wikipedia.org/wiki/Kursk_People%27s_Republic) | | | | | |
+
+#### United Kingdom
+
+| Code | Name | Circle | Square | Simplified | Full-size | Colors |
+|------|------|:------:|:----:|:----------:|:---------:|--------|
+| `gb-con` | [Cornwall](https://en.wikipedia.org/wiki/Cornwall) | | | | | |
+| `gb-eng` | [England](https://en.wikipedia.org/wiki/England) | | | | | |
+| `gb-nir` | [Northern Ireland](https://en.wikipedia.org/wiki/Northern_Ireland) | | | | | |
+| `gb-ork` | [Orkney](https://en.wikipedia.org/wiki/Orkney) | | | | | |
+| `gb-sct` | [Scotland](https://en.wikipedia.org/wiki/Scotland) | | | | | |
+| `gb-wls` | [Wales](https://en.wikipedia.org/wiki/Wales) | | | | | |
+
 #### United States
 
 | Code | Name | Circle | Square | Simplified | Full-size | Colors |
 |------|------|:------:|:----:|:----------:|:---------:|--------|
+| `us-ak` | [Alaska](https://en.wikipedia.org/wiki/Alaska) | | | | | |
+| `us-al` | [Alabama](https://en.wikipedia.org/wiki/Alabama) | | | | | |
+| `us-ar` | [Arkansas](https://en.wikipedia.org/wiki/Arkansas) | | | | | |
+| `us-az` | [Arizona](https://en.wikipedia.org/wiki/Arizona) | | | | | |
 | `us-ca` | [California](https://en.wikipedia.org/wiki/California) | <img src="circle/states/us-ca.svg" width="32"> | <img src="square/states/us-ca.svg" width="32"> | <img src="full-size-simplified/states/us-ca.svg" height="20"> | [✓](full-size/states/us-ca.svg) | [<img src="swatches/BA0C2F.svg" width="12">`#BA0C2F`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/5C462B.svg" width="12">`#5C462B`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/00843D.svg" width="12">`#00843D`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg)<br>[<img src="swatches/B58150.svg" width="12">`#B58150`](https://commons.wikimedia.org/wiki/File:Flag_of_California.svg) |
+| `us-co` | [Colorado](https://en.wikipedia.org/wiki/Colorado) | | | | | |
+| `us-dc` | [District of Columbia](https://en.wikipedia.org/wiki/Washington,_D.C.) | | | | | |
+| `us-fl` | [Florida](https://en.wikipedia.org/wiki/Florida) | | | | | |
+| `us-ga` | [Georgia](https://en.wikipedia.org/wiki/Georgia_(U.S._state)) | | | | | |
+| `us-hi` | [Hawaii](https://en.wikipedia.org/wiki/Hawaii) | | | | | |
+| `us-in` | [Indiana](https://en.wikipedia.org/wiki/Indiana) | | | | | |
+| `us-md` | [Maryland](https://en.wikipedia.org/wiki/Maryland) | | | | | |
+| `us-mn` | [Minnesota](https://en.wikipedia.org/wiki/Minnesota) | | | | | |
+| `us-mo` | [Missouri](https://en.wikipedia.org/wiki/Missouri) | | | | | |
+| `us-ms` | [Mississippi](https://en.wikipedia.org/wiki/Mississippi) | | | | | |
+| `us-nc` | [North Carolina](https://en.wikipedia.org/wiki/North_Carolina) | | | | | |
+| `us-nm` | [New Mexico](https://en.wikipedia.org/wiki/New_Mexico) | | | | | |
+| `us-or` | [Oregon](https://en.wikipedia.org/wiki/Oregon) | | | | | |
+| `us-ri` | [Rhode Island](https://en.wikipedia.org/wiki/Rhode_Island) | | | | | |
+| `us-sc` | [South Carolina](https://en.wikipedia.org/wiki/South_Carolina) | | | | | |
+| `us-tn` | [Tennessee](https://en.wikipedia.org/wiki/Tennessee) | | | | | |
+| `us-tx` | [Texas](https://en.wikipedia.org/wiki/Texas) | | | | | |
+| `us-wa` | [Washington](https://en.wikipedia.org/wiki/Washington_(state)) | | | | | |
+| `us-wi` | [Wisconsin](https://en.wikipedia.org/wiki/Wisconsin) | | | | | |
+| `us-wy` | [Wyoming](https://en.wikipedia.org/wiki/Wyoming) | | | | | |
 
 ### Historical
 
