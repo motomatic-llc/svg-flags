@@ -192,7 +192,7 @@ svg-flags/
 | `hu` | [Hungary](https://en.wikipedia.org/wiki/Hungary) | | | | | |
 | `is` | [Iceland](https://en.wikipedia.org/wiki/Iceland) | | | | | |
 | `in` | [India](https://en.wikipedia.org/wiki/India) | <img src="circle/countries/in.svg" width="32"> | <img src="square/countries/in.svg" width="32"> | <img src="full-size-simplified/countries/in.svg" height="20"> | [✓](full-size/countries/in.svg) | [<img src="swatches/046A38.svg" width="12">`#046A38`](https://commons.wikimedia.org/wiki/File:Flag_of_India.svg)<br>[<img src="swatches/07038D.svg" width="12">`#07038D`](https://commons.wikimedia.org/wiki/File:Flag_of_India.svg)<br>[<img src="swatches/FF6820.svg" width="12">`#FF6820`](https://commons.wikimedia.org/wiki/File:Flag_of_India.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_India.svg) |
-| `id` | [Indonesia](https://en.wikipedia.org/wiki/Indonesia) | | | | | |
+| `id` | [Indonesia](https://en.wikipedia.org/wiki/Indonesia) | <img src="circle/countries/id.svg" width="32"> | <img src="square/countries/id.svg" width="32"> | <img src="full-size-simplified/countries/id.svg" height="20"> | [✓](full-size/countries/id.svg) | [<img src="swatches/FF0000.svg" width="12">`#FF0000`](https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg) |
 | `ir` | [Iran](https://en.wikipedia.org/wiki/Iran) | | | | | |
 | `iq` | [Iraq](https://en.wikipedia.org/wiki/Iraq) | | | | | |
 | `ie` | [Ireland](https://en.wikipedia.org/wiki/Republic_of_Ireland) | <img src="circle/countries/ie.svg" width="32"> | <img src="square/countries/ie.svg" width="32"> | <img src="full-size-simplified/countries/ie.svg" height="20"> | [✓](full-size/countries/ie.svg) | [<img src="swatches/169B62.svg" width="12">`#169B62`](https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg)<br>[<img src="swatches/FF883E.svg" width="12">`#FF883E`](https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg)<br>[<img src="swatches/FFFFFF.svg" width="12">`#FFFFFF`](https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg) |
@@ -309,6 +309,7 @@ svg-flags/
 
 | Code | Name | Circle | Square |
 |------|------|:------:|:------:|
+| `af` | Afrikaans | <img src="circle/languages/af.svg" width="32"> | <img src="square/languages/af.svg" width="32"> |
 | `el` | Greek | <img src="circle/languages/el.svg" width="32"> | <img src="square/languages/el.svg" width="32"> |
 | `en` | English | <img src="circle/languages/en.svg" width="32"> | <img src="square/languages/en.svg" width="32"> |
 | `en-us` | English (US) | <img src="circle/languages/en-us.svg" width="32"> | <img src="square/languages/en-us.svg" width="32"> |

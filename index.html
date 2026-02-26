@@ -1,24 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>svg-flags Gallery</title>
-<link rel="icon" type="image/svg+xml" href="circle/countries/gr.svg">
-<link rel="stylesheet" href="gallery.css">
-</head>
-<body>
-
-<h1>svg-flags</h1>
-<p class="subtitle">Clean, Xcode-compatible SVG flags with official colors. Based on <a href="https://github.com/HatScripts/circle-flags">circle-flags</a>.</p>
-<p class="subtitle"><a href="https://github.com/ciscoriordan/svg-flags">github.com/ciscoriordan/svg-flags</a></p>
-
-<nav>
-  <a class="active" href="index.html">Circle</a>
-  <a href="gallery-square.html">Square</a>
-  <a href="gallery-full-size-simplified.html">Full-size simplified</a>
-  <a href="gallery-full-size.html">Full-size</a>
-</nav>
+---
+layout: gallery
+variant: circle
+---
 
 <div class="hero-flags">
   <img class="circle" src="circle/countries/us.svg" width="56" height="56"/>
@@ -229,6 +212,11 @@ Categories: countries, languages, states, other/orgs, other/locales, historical<
     <img class="circle" src="circle/countries/in.svg" width="96" height="96"/>
     <div class="flag-name">India</div>
     <div class="flag-code">in</div>
+  </div>
+  <div class="flag-item">
+    <img class="circle" src="circle/countries/id.svg" width="96" height="96"/>
+    <div class="flag-name">Indonesia</div>
+    <div class="flag-code">id</div>
   </div>
   <div class="flag-item">
     <img class="circle" src="circle/countries/ie.svg" width="96" height="96"/>
@@ -507,6 +495,11 @@ Categories: countries, languages, states, other/orgs, other/locales, historical<
 
 <div class="flags">
   <div class="flag-item">
+    <img class="circle" src="circle/languages/af.svg" width="96" height="96"/>
+    <div class="flag-name">Afrikaans</div>
+    <div class="flag-code">af</div>
+  </div>
+  <div class="flag-item">
     <img class="circle" src="circle/languages/el.svg" width="96" height="96"/>
     <div class="flag-name">Greek</div>
     <div class="flag-code">el</div>
@@ -547,9 +540,24 @@ Categories: countries, languages, states, other/orgs, other/locales, historical<
     <div class="flag-code">fr-ca-qc</div>
   </div>
   <div class="flag-item">
+    <img class="circle" src="circle/languages/hi.svg" width="96" height="96"/>
+    <div class="flag-name">Hindi</div>
+    <div class="flag-code">hi</div>
+  </div>
+  <div class="flag-item">
+    <img class="circle" src="circle/languages/id.svg" width="96" height="96"/>
+    <div class="flag-name">Indonesian</div>
+    <div class="flag-code">id</div>
+  </div>
+  <div class="flag-item">
     <img class="circle" src="circle/languages/ko.svg" width="96" height="96"/>
     <div class="flag-name">Korean</div>
     <div class="flag-code">ko</div>
+  </div>
+  <div class="flag-item">
+    <img class="circle" src="circle/languages/ur.svg" width="96" height="96"/>
+    <div class="flag-name">Urdu</div>
+    <div class="flag-code">ur</div>
   </div>
   <div class="flag-item">
     <img class="circle" src="circle/languages/zh.svg" width="96" height="96"/>
@@ -640,67 +648,3 @@ Categories: countries, languages, states, other/orgs, other/locales, historical<
     <div class="flag-code">us/ca</div>
   </div>
 </div>
-
-<h2>Variants</h2>
-
-<div class="variants-grid">
-  <div class="variant-card">
-    <h3>Circle</h3>
-    <p>512×512 circular flags. Geometry from <a href="https://github.com/HatScripts/circle-flags">circle-flags</a>, <code>&lt;mask&gt;</code> → <code>&lt;clipPath&gt;</code>, official colors. Flags with white backgrounds include a <code>&lt;circle&gt;</code> border stroke (<code>#cdcfd3</code>).</p>
-    <div class="sample">
-      <img class="circle" src="circle/countries/us.svg" width="48" height="48"/>
-      <img class="circle" src="circle/countries/gb.svg" width="48" height="48"/>
-      <img class="circle" src="circle/countries/fr.svg" width="48" height="48"/>
-      <img class="circle" src="circle/countries/de.svg" width="48" height="48"/>
-      <img class="circle" src="circle/countries/jp.svg" width="48" height="48"/>
-      <img class="circle" src="circle/countries/gr.svg" width="48" height="48"/>
-      <img class="circle" src="circle/countries/ke.svg" width="48" height="48"/>
-    </div>
-  </div>
-
-  <div class="variant-card">
-    <h3>Square</h3>
-    <p>512×512 square flags. Same <a href="https://github.com/HatScripts/circle-flags">circle-flags</a> geometry without the circular clip. Flags with white backgrounds include a <code>&lt;rect&gt;</code> border stroke (<code>#cdcfd3</code>).</p>
-    <div class="sample">
-      <img src="square/countries/us.svg" width="48" height="48"/>
-      <img src="square/countries/gb.svg" width="48" height="48"/>
-      <img src="square/countries/fr.svg" width="48" height="48"/>
-      <img src="square/countries/de.svg" width="48" height="48"/>
-      <img src="square/countries/jp.svg" width="48" height="48"/>
-    </div>
-    <a class="view-all" href="gallery-square.html">View all →</a>
-  </div>
-
-  <div class="variant-card">
-    <h3>Full-size simplified</h3>
-    <p>True aspect ratio, simplified geometry for complicated flags, official colors. No border strokes.</p>
-    <div class="sample">
-      <img src="full-size-simplified/countries/us.svg" width="64" height="34"/>
-      <img src="full-size-simplified/countries/gb.svg" width="64" height="32"/>
-      <img src="full-size-simplified/countries/fr.svg" width="64" height="43"/>
-      <img src="full-size-simplified/countries/de.svg" width="64" height="38"/>
-      <img src="full-size-simplified/countries/jp.svg" width="64" height="43"/>
-    </div>
-    <a class="view-all" href="gallery-full-size-simplified.html">View all →</a>
-  </div>
-
-  <div class="variant-card">
-    <h3>Full-size</h3>
-    <p>True aspect ratio with accurate detail. Based on Wikimedia Commons SVGs. No border strokes.</p>
-    <div class="sample">
-      <img src="full-size/countries/us.svg" width="64" height="34"/>
-      <img src="full-size/countries/gb.svg" width="64" height="32"/>
-      <img src="full-size/countries/fr.svg" width="64" height="43"/>
-      <img src="full-size/countries/de.svg" width="64" height="38"/>
-      <img src="full-size/countries/jp.svg" width="64" height="43"/>
-    </div>
-    <a class="view-all" href="gallery-full-size.html">View all →</a>
-  </div>
-</div>
-
-<footer>
-  <a href="https://github.com/ciscoriordan/svg-flags">GitHub</a> · MIT License · Based on <a href="https://github.com/HatScripts/circle-flags">circle-flags</a>
-</footer>
-
-</body>
-</html>

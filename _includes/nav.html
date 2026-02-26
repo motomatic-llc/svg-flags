@@ -1,0 +1,6 @@
+<nav>
+  <a {% if page.variant == "circle" %}class="active"{% endif %} href="{{ site.baseurl }}/">Circle</a>
+  <a {% if page.variant == "square" %}class="active"{% endif %} href="{{ site.baseurl }}/gallery-square.html">Square</a>
+  <a {% if page.variant == "full-size-simplified" %}class="active"{% endif %} href="{{ site.baseurl }}/gallery-full-size-simplified.html">Full-size simplified</a>
+  <a {% if page.variant == "full-size" %}class="active"{% endif %} href="{{ site.baseurl }}/gallery-full-size.html">Full-size</a>
+</nav>

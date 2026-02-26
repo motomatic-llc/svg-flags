@@ -187,6 +187,8 @@ h3 {
 .flag-item img {
   display: block;
   margin: 0 auto 0.5em;
+  max-width: 100%;
+  height: auto;
 }
 
 .flag-item img.circle {
@@ -262,63 +264,60 @@ h3 {
   grid-column: 1 / -1;
 }
 
-/* ── Variant Cards (overview page) ── */
+/* ── Variant Cards ── */
 
 .variants-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1em;
-  margin-top: 0.5em;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.6em;
+  margin: 1.5em 0 2em;
 }
 
-.variant-card {
+a.variant-card {
+  display: block;
   background: var(--bg-raised);
   border: 1px solid var(--border);
-  border-radius: var(--radius-lg);
-  padding: 1.5em;
-  transition: box-shadow 0.2s, transform 0.2s;
+  border-radius: var(--radius);
+  padding: 0.75em 0.8em;
+  transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
 }
 
-.variant-card:hover {
+a.variant-card:hover {
   box-shadow: var(--shadow-hover);
-  transform: translateY(-2px);
+  transform: translateY(-1px);
+}
+
+a.variant-card.variant-active {
+  border-color: var(--accent);
+  background: var(--accent-bg);
 }
 
 .variant-card h3 {
-  margin: 0 0 0.3em;
-  font-size: 1em;
-  font-weight: 600;
-}
-
-.variant-card p {
+  margin: 0 0 0.4em;
   font-size: 0.82em;
-  color: var(--text-secondary);
-  margin-bottom: 1.2em;
-  line-height: 1.5;
+  font-weight: 600;
 }
 
 .variant-card .sample {
   display: flex;
-  gap: 6px;
+  gap: 4px;
   align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
-  margin-bottom: 1.2em;
+  margin-bottom: 0.4em;
 }
 
 .variant-card .sample img.circle {
   border-radius: 50%;
 }
 
-.variant-card a.view-all {
-  font-size: 0.82em;
-  font-weight: 500;
-  color: var(--accent);
-  text-decoration: none;
-  transition: color 0.15s;
-}
-
-.variant-card a.view-all:hover {
-  color: var(--accent-hover);
+.variant-card .variant-desc {
+  font-size: 0.7em;
+  color: var(--text-tertiary);
+  line-height: 1.3;
 }
 
 /* ── Overview hero ── */
@@ -370,5 +369,6 @@ footer a:hover {
   nav { overflow-x: auto; -webkit-overflow-scrolling: touch; }
   nav a { white-space: nowrap; font-size: 0.8em; }
   .flags { grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); }
-  .flag-item img { width: 64px !important; height: 64px !important; }
+  .flag-item img { max-width: 64px !important; height: auto !important; }
+  .variants-grid { grid-template-columns: repeat(2, 1fr); }
 }
