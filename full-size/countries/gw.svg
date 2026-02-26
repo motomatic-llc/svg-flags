@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="1200" height="600" viewBox="-2 -3 12 6">
+	<rect x="-2" y="-3" width="12" height="6" fill="#FCD116" />
+	<rect x="-2" width="12" height="3" fill="#009E49" />
+	<rect x="-2" y="-3" width="4" height="6" fill="#CE1126" />
+	<g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	<g transform="rotate(72)"><g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	</g><g transform="rotate(144)"><g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	</g><g transform="rotate(216)"><g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	</g><g transform="rotate(288)"><g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	</g><g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g><g transform="rotate(72)"><g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	</g><g transform="rotate(144)"><g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	</g><g transform="rotate(216)"><g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	</g><g transform="rotate(288)"><g>
+		<path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		<g transform="scale(-1,1)"><path d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000" />
+		</g></g>
+	</g></svg>
