@@ -683,6 +683,7 @@ A base language flag (e.g. `en`) is a copy of its primary country flag (English 
 
 | Code | Name | Circle | Square | Simplified | Full-size | Colors | Notes |
 |------|------|:------:|:----:|:----------:|:---------:|--------|-------|
+| `esbcn` | [Barcelona](https://en.wikipedia.org/wiki/Flag_of_Barcelona) | <img src="circle/cities/esbcn.svg" width="32"> | <img src="square/cities/esbcn.svg" width="32"> | [✓](full-size-simplified/cities/esbcn.svg) | [✓](full-size/cities/esbcn.svg) | `#FFFFFF`<br>`#FFDC00`<br>`#C80000` | Circle/square&nbsp;crop&nbsp;the&nbsp;center&nbsp;24&times;24&nbsp;region&nbsp;of&nbsp;the&nbsp;[Wikimedia&nbsp;SVG](https://commons.wikimedia.org/wiki/File:Flag_of_Barcelona.svg) |
 | `usnyc` | [New&nbsp;York&nbsp;City](https://en.wikipedia.org/wiki/Flag_of_New_York_City) | <img src="circle/cities/usnyc.svg" width="32"> | <img src="square/cities/usnyc.svg" width="32"> | [✓](full-size-simplified/cities/usnyc.svg) | [✓](full-size/cities/usnyc.svg) | `#003884`<br>`#FFFFFF`<br>`#FF6600` | Circle/square/simplified&nbsp;based&nbsp;on&nbsp;[cpvrn's&nbsp;redesign](https://www.reddit.com/r/vexillology/comments/1k420ag/a_flag_for_nyc/);&nbsp;full-size&nbsp;is&nbsp;the&nbsp;[official&nbsp;seal&nbsp;flag](https://commons.wikimedia.org/wiki/File:Flag_of_New_York_City.svg) |
 
 ### Historical
