@@ -2,7 +2,10 @@
 
 Clean, Xcode-compatible SVG flags with official colors in multiple shapes.
 
-**[Browse the gallery](https://ciscoriordan.github.io/svg-flags)**
+**[Browse the gallery](https://ciscoriordan.github.io/svg-flags)** · **[Add via Swift Package Manager](#swift-package-svgflags)**
+
+[![Swift Package Index — platforms](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fciscoriordan%2Fsvg-flags%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ciscoriordan/svg-flags)
+[![Swift Package Index — Swift versions](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fciscoriordan%2Fsvg-flags%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ciscoriordan/svg-flags)
 
 ## Table of contents
 
