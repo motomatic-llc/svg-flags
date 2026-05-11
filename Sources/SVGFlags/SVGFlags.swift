@@ -1,4 +1,6 @@
 import Foundation
+import SDWebImage
+import SDWebImageSVGCoder
 
 /// Top-level namespace for package configuration. Holds the CDN URL the
 /// resolver targets, any consumer-supplied additions to `bundledFlags`, and
@@ -11,7 +13,7 @@ import Foundation
 ///     bundledFlagOverrides: ["mycity"],
 ///     missReporter: { miss in MyTelemetry.report(miss) }
 /// )
-/// SVGFlags.installSVGBorderStripper()
+/// SVGFlags.install()
 /// ```
 public enum SVGFlags {
     /// Default CDN base. Points to jsDelivr's mirror of the public svg-flags
@@ -40,12 +42,13 @@ public enum SVGFlags {
         }
     }
 
-    /// Install the SVG border-stripper into SDWebImage's downloader so remotely
-    /// fetched flags visually match the bundled ones (which have the
-    /// `<!-- border --><circle .../>` element pre-stripped). Idempotent — safe
-    /// to call once at app launch, or multiple times.
+    /// One-call setup. Registers the SDWebImage SVG coder so remote `.svg`
+    /// flags can be decoded, and installs a downloader hook that strips the
+    /// `<!-- border --><circle .../>` element so remote flags visually match
+    /// the bundled ones. Idempotent — safe to call multiple times.
     @MainActor
-    public static func installSVGBorderStripper() {
+    public static func install() {
+        SDImageCodersManager.shared.addCoder(SDImageSVGCoder.shared)
         FlagSVGStripper.install()
     }
 

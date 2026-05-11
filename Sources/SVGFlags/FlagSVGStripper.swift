@@ -4,7 +4,7 @@ import SDWebImage
 /// Strips the `<!-- border --><circle .../>` element from incoming SVG bytes so
 /// remotely-fetched flags match the bundled assets visually (the bundled set is
 /// pre-stripped). Hooked into `SDWebImageDownloader` so it runs once per
-/// download. Install via `SVGFlags.installSVGBorderStripper()` at launch.
+/// download. Installed implicitly by `SVGFlags.install()` at launch.
 enum FlagSVGStripper {
     @MainActor
     static func install() {
