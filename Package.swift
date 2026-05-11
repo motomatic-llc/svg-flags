@@ -27,7 +27,7 @@ let package = Package(
                 .product(name: "SDWebImageSVGCoder", package: "SDWebImageSVGCoder")
             ],
             resources: [
-                .process("Resources/Flags.xcassets"),
+                .process("Resources/Assets.xcassets"),
                 .process("Resources/cityFlagMap.json"),
                 .process("Resources/subdivisionMap.json")
             ]

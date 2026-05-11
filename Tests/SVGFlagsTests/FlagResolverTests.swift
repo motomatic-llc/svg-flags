@@ -44,13 +44,15 @@ final class FlagResolverTests: XCTestCase {
 
     /// Guards against drift: every name in `bundledFlags` must have a matching
     /// imageset in the asset catalog, and every imageset in the catalog must be
-    /// listed in `bundledFlags`. Reads the catalog off disk via Bundle.module.
+    /// listed in `bundledFlags`. Reads the catalog's `Flags/` namespace folder
+    /// off disk via Bundle.module.
     func test_bundledFlagsMatchesAssetCatalogContents() throws {
         let url = try XCTUnwrap(
-            Bundle.module.url(forResource: "Flags", withExtension: "xcassets"),
-            "Flags.xcassets must ship as a package resource"
+            Bundle.module.url(forResource: "Assets", withExtension: "xcassets"),
+            "Assets.xcassets must ship as a package resource"
         )
-        let entries = try FileManager.default.contentsOfDirectory(atPath: url.path)
+        let flagsDir = url.appendingPathComponent("Flags", isDirectory: true)
+        let entries = try FileManager.default.contentsOfDirectory(atPath: flagsDir.path)
         let onDisk: Set<String> = Set(
             entries
                 .filter { $0.hasSuffix(".imageset") }

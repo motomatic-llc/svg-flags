@@ -18,7 +18,7 @@ public struct FlagView<L: FlagLocatable>: View {
         Group {
             switch FlagResolver.source(for: location) {
             case .bundled(let name):
-                Image(name, bundle: .module)
+                Image("Flags/\(name)", bundle: .module)
                     .resizable()
                     .scaledToFill()
             case .remote(let folder, let name, let url):
